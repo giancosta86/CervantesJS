@@ -1,0 +1,14 @@
+== {{lengua|es}} ==
+{{pron-graf
+|fone=ˈʝen̪.do
+|ac=g
+|longitud_silábica=2
+|número_letras=5
+}}
+
+=== Forma verbal ===
+;1: {{gerundio|ir|i=s}}.
+{{relacionado|yéndose}}.
+
+== Referencias y notas ==
+<references />

@@ -1,0 +1,5 @@
+\{\{
+    \s*(?<mode>participio|gerundio)\s*\|
+    (?:l(?:a|e)ng\s*=\s*es\s*\|)?
+    \s*(?<infinitive>\p{L}[\p{L}.\- ]*\p{L})\s*
+[\|}]

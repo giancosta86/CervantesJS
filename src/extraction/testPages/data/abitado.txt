@@ -1,0 +1,18 @@
+== {{lengua|es}} ==
+{{pron-graf
+|h=habitado}}
+
+=== Forma verbal ===
+{{inflect.es.adj.reg|abitad}}
+
+;1: {{participio|leng=es|abitar|pas}}.
+
+== {{lengua|pt}} ==
+{{pron-graf|leng=pt
+|h=habitado}}
+
+=== Forma verbal ===
+;1: {{participio|leng=pt|abitar|pas}}.
+
+== Referencias y notas ==
+<references />

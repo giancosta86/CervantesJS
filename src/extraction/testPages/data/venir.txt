@@ -1,0 +1,206 @@
+== {{lengua|es}} ==
+{{ampliable}}
+{{pron-graf|fone=beˈniɾ|audio=LL-Q1321 (spa)-Rodelar-venir.wav}}
+
+=== Etimología ===
+{{etimología|la|venire|diacrítico=venīre}}
+
+=== {{verbo intransitivo|es}} ===
+
+;1: Trasladarse hacia [[acá]].
+{{sinónimos|acercarse|arribar|llegar}}.
+{{antónimo|irse|marcharse}}.
+;2: Ir hacia donde está el que habla.
+{{sinónimos|arribar|llegar}}.
+;3: Ir de un [[lado]] hacia otro.
+{{sinónimos|andar|caminar}}.
+:*'''Ejemplo:''' Estar ''viniendo'' por todas partes.
+;4: Ir una cosa [[a continuación]] de otra.
+{{sinónimos|seguir|suceder}}.
+:*'''Ejemplo:''' ¿Y qué ''viene'' ahora?
+;5: Tener una cosa el origen en otra, [[proceder]] de otra cosa.
+{{sinónimos|dimanar|nacer|originarse}}.
+:*'''Ejemplo:''' La patata ''viene'' de América.
+;6: Ser una cosa la [[consecuencia]] de otra, o poder llegar a ella por [[deducción]] o [[inferencia]].
+{{relacionado|herencia|causa|origen}}.
+:*'''Ejemplo:''' La dulzura de la niña le ''vendría'' de la educación que le dio su madre .
+;7: Tener un origen que se transmite de persona en persona.
+{{sinónimos|heredar|recibir}}.
+:*'''Ejemplo:''' Es una costumbre que ''viene'' de nuestros antepasados.
+;8: Cambiar la [[posesión]] de algo pasando sucesivamente de una persona a otra.
+{{sinónimos|obtener|recibir|heredar}}.
+:*'''Ejemplo:''' ''Venir'' de mano en mano.
+;9: Producirse algo.
+{{sinónimos|ocurrir|suceder}}.
+:*'''Ejemplo:''' Le ''vino'' un desmayo.
+;10: Tener una idea o intención que aparece de forma inesperada o incontrolada.
+{{sinónimos|aparecer|surgir}}.
+:*'''Ejemplo:''' Le ''vino'' un deseo irresistible de abrazarlo.
+;11: Aparecer por primera vez o comenzar.
+{{sinónimos|iniciarse|manifestarse}}.
+:*'''Ejemplo:''' ''Venirle'' la sensatez al pasar la juventud.
+;12: Aparecer, mostrarse o estar en un medio escrito.
+{{sinónimos|publicarse}}.
+:*'''Ejemplo:''' Esa noticia ''viene'' en la sección deportes.
+;13: Estar originalmente en un [[conjunto]] mayor de cosas.
+{{sinónimos|incluirse|formar parte}}.
+:*'''Ejemplo:''' ''Venía'' con los muebles que compramos.
+;14: Tener las [[forma]]s o [[condición|condiciones]] adecuadas.
+{{sinónimos|acomodarse|ajustarse|sentar}}.
+:*'''Ejemplo:''' Ese traje te ''viene'' bien.
+;15: Retornar al tema inicial en una [[discusión]], [[exposición]] de ideas o [[charla]].
+{{sinónimos|retomar|volver}}.
+:*'''Ejemplo:''' Después de este paréntesis, nuevamente ''vengo'' a nuestro asunto.
+;16: Llegar a un [[punto]] en que ambas partes pueden conciliar sus intereses.
+{{sinónimos|avenirse|conformarse|transigir}}.
+:*'''Ejemplo:''' ''Venir'' a un acuerdo.
+;17: En expresiones temporales, estar [[acercar|acercándose]] el momento, estar [[próximo]].
+{{sinónimos|próximo}}.
+:*'''Ejemplo:''' El lunes que ''viene''.
+;18: {{plm|permanecer}} o estar en una condición por largo tiempo.
+{{sinónimos|persistir}}.
+:*'''Ejemplo:''' ''Viene'' con una tos desde hace semanas.
+;19: Ocurrir finalmente algo que se esperaba desde hace tiempo.
+{{sinónimos|acaecer|sobrevenir|suceder}}.
+:*'''Ejemplo:''' Tras una penosa enfermedad, ''vino'' a morir esta semana.
+;20: Ocurrir tras mucho pedir, con mucho esfuerzo.
+{{sinónimos|acaecer|llegar}}.
+:*'''Ejemplo:''' Después de mucho hacerse de rogar, ''vino'' a aceptar.
+;21: Presentarse ante un [[juez]].
+{{sinónimos|comparecer}}.
+;22: Tomar una decisión alguna autoridad.
+{{sinónimos|decidir}}.
+:*'''Ejemplo:''' Yo, presidente de esta Corte, ''vengo en'' declarar culpable al acusado.
+;23: Con algunos sustantivos forma una [[locución verbal]] con el significado del sustantivo.
+:*'''Ejemplo:''' ''Venir'' en conocimiento. <!-- Ejemplo del DRAE, vale cualquier otro -->
+;24: Precipitarse, arrojarse sobre algo o alguien. <!-- sobre una persona, animal o grupo de ellos.-->
+{{sinónimos|arrojarse|caer}}.
+:*'''Ejemplos:''' El granizo ''vino'' sobre nuestras cabezas. El enemigo ''vino'' sobre nosotros.
+;25: Ser aproximadamente, mostrarse más o menos equivalente a algo.
+{{sinónimos|equivaler}}.
+:*'''Ejemplo:''' Esto ''viene'' a ser una disculpa por la tardanza.
+;26: Estar por hacer algo de un momento a otro, sin tardanza.
+:*'''Ejemplo:''' ''Venir'' a partido.
+;27: Sacar a [[relucir]] algo inesperado o inapropiado.
+:*'''Ejemplo:''' ''Venir'' con mentiras. <!-- venirnos con cuentos, con una historia -->
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba}}
+:*[[al que le venga el saco que se lo ponga]]
+:*[[al que le venga el sayo que se lo ponga]]: Quien se sienta aludido, que reaccione en consecuencia. Se usa para acusar una falta, sin mencionar a nadie en especial.
+:*¿[[a qué viene]] eso, alguna cosa?: Indica molestia por algo inoportuno.
+:*[[como vino al mundo]]: Desnudo.
+:*[[el que venga detrás, que arree]]
+:*[[en lo por venir]]: En el futuro, en lo sucesivo.
+:*¡[[ven acá]]!: Se usa para llamar y reconvenir a alguien.<!-- interjección -->
+:*¡[[venga]]!: <!-- interjección -->
+::Expresa conformidad (España, coloquial) <!-- ¿Pintamos de rojo este muro?- ¡Venga! -->
+::Se usa para animar, para exigir más rapidez. (España, coloquial)
+:*[[venga lo que viniere]]: Se usa para indicar que una resolución tomada no variará frente a circunstancias adversas.
+:*¡[[venga ya]]!: Expresa incredulidad (España, coloquial)<!-- interjección -->
+:*[[venir a cuento]]: Hacer al caso
+:*[[venir a la memoria]]: Recordar
+:*[[venir a las manos]]: Golpearse, pelearse luego de una discusión acalorada.
+:*[[venir al caso]]
+:*[[venir alguien bien en]] algo: Acceder
+:*[[venir a mano]]
+:*[[venir a menos]]: Echarse a perder, decaer.
+{{rel-centro}}
+:*[[venir ancho]]
+:*[[venir clavado]] algo: Venir de perillas (España, coloquial)
+:*[[venir de la chacra]]
+:*[[venir en gana]]
+:*[[venir grande]]
+:*[[venirle ancho]] algo a alguien
+:*[[venirle angosto]] algo a alguien
+:*[[venirle grande]] algo a alguien
+:*[[venirle muy ancho]] algo a alguien
+:*[[venirle muy grande]] algo a alguien
+:*[[venirle su sanmartín]]
+:*[[venir mal dadas]]: Verse mal un asunto, ser adverso.
+:*[[venir pequeño]]
+:*[[venir rodado]] algo: Ocurrir justo lo que se deseaba.
+:*[[verlas venir]]
+:*[[ver venir]]
+{{rel-abajo}}
+
+=== Conjugación ===
+{{es.v.conj.venir}}
+
+=== Véase también ===
+*[[venirse]]
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|af|kom}}
+{{t+|ain|エㇰ|,|アㇽキ|,|アㇻキ}}
+{{t+|de|kommen}}
+{{t+|qbt|1-2|yqueynen|tr=[[iqueynen]]|1-2|mayecnen}}
+{{t+|bg|идвам}} (1,2), {{trad|bg|дохождам}} (1,2), {{trad|bg|ходя}} (3), {{trad|bg|вървя}} (3), {{trad|bg|следвам}} (4), {{trad|bg|произхождам}} (5)
+{{t+|ca|venir|,|vindre}}
+{{t+|da|komme}}
+{{t+|fr|venir}}
+{{t+|eo|veni}}
+{{t+|fi|tulla}}
+{{t+|fy|komme}}
+{{t+|fo|koma}}
+{{t+|gd|thig|,|tiugainn}}
+{{t+|got|𐌵𐌹𐌼𐌰𐌽}} ([[qiman]])
+{{t+|el|έρχομαι}}
+{{t+|hu|jön}}
+{{t+|hbo|בּוא|בוא|m}}
+{{t+|io|venar}}
+{{t+|en|come}}
+{{t+|ang|gecuman}}
+{{t+|is|koma}}
+{{trad-centro}}
+{{t+|it|1,2,4,5,7,9,10,12,13|venire}}
+{{t+|ja|来る|,|くる|tr=kuru}}
+{{t+|la|venire}}
+{{t+|ms|datang}}
+{{t+|arn|1-2|küpan}}
+{{t+|yua|tal}}
+{{t+|mn|ирэх}}
+{{t+|no|komme}}
+{{t+|nl|komen}}
+{{t+|pap|bin|,|bini}}
+{{t+|pl|pójść|,|przychodzić}}
+{{t+|pt|chegar|,|vir|,|ir}}
+{{t+|rw|za}} (kuza)
+{{t+|ro|veni}}
+{{t+|srn|kon}}
+{{t+|sv|komma}}
+{{t+|tl|pumaríto}}
+{{t+|tr|gelmek}}
+{{t+|zu|-fika|,|-za}}
+{{trad-abajo}}
+
+== {{lengua|ca}} ==
+{{pron-graf|leng=ca}}
+
+=== Etimología ===
+{{etimología|leng=ca|la|venire|diacrítico=venīre}}
+
+=== {{verbo intransitivo|ca}} ===
+
+;1: {{plm|venir}}.
+
+== {{lengua|fr}} ==
+{{pron-graf|leng=fr|fono=və.niʁ}}
+
+=== Etimología ===
+{{etimología|leng=fr|la|venire|diacrítico=venīre}}
+
+=== {{verbo intransitivo|fr}} ===
+
+;1: {{plm|venir}}.
+
+=== Conjugación ===
+{{fr.v.conj.venir}}
+
+== Referencias y notas ==
+<references />

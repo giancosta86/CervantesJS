@@ -1,0 +1,571 @@
+{{desambiguación|-la|-là|-lä|.la|LA|La|La-|La.|l'a|l-a|la-|là|lá|lâ|lã|lä|lā|lă|lą́|lǎ|Ła|ła|łaʼ|łà|łą́|Ḻaʼ|ḻaʼ|laa|La'a}}
+
+== {{lengua|es}} ==
+{{pron-graf|la|}}
+
+=== Etimología 1 ===
+{{etimología|osp|ela||osp|la|glosa2=la}}, y estas del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+==== {{artículo determinado|es}} ====
+{{inflect.es.adj.ad-lib|[[el]]|[[los]]|la|[[las]]}}
+
+;1: ''{{plm|artículo determinado}} femenino singular.''
+{{uso}} [[anteceder|antecede]] a [[sustantivo]]s femeninos, denotando que estos deben tomarse como información general, [[definido|definida]] o [[consabido|consabida]].
+:*'''Ejemplos''':
+::En la oración "recibí ''la'' carta", ''la'' denota una "carta" definida de cuya existencia ya sabía el hablante.
+::En la oración "''la'' vida es así", ''la'' denota que "vida" se entiende en su sentido general.
+
+==== {{pronombre personal|es}} ====
+{{inflect.es.pron.pers.3}}
+
+;2: ''{{plm|pronombre}} personal femenino de [[objeto directo]] ([[acusativo]]), tercera persona del singular.''
+{{uso}} Puede emplearse como [[enclítico]] (ver'''''la'''''), pero no se usa como objeto de preposición (''por ella'', no ''por *la'')
+{{ejemplo}} "¿Dónde está tu camisa roja? Estuve buscándo''la'', pero no ''la'' encontré."
+
+==== Véase también ====
+* [[artículo]]
+* [[artículo determinado]] o [[artículo definido]]
+* [[pronombre]]
+* [[Wikcionario:Categorías gramaticales]]
+
+{{clear}}
+
+==== Traducciones ====
+{{trad-arriba}}
+{{t+|fr|1,2|la|,|l'}}
+{{t+|el|2|η|tr|i|}}
+{{trad-centro}}
+{{t+|en|1|the|,|2|her|,|it}}
+{{t+|pt|1|a}}
+{{trad-abajo}}
+{{ancla|esmus}}
+
+{{clear}}
+
+=== Etimología 2 ===
+{{pron-graf|fone=la}}
+{{etimología2|iniciales del latín}} {{l+|la|labii}}
+
+==== {{sustantivo masculino|es}} ====
+{{inflect.es.sust.reg}}
+;1 {{música}}: Sexta [[nota]] de la [[escala mayor]]. La frecuencia de referencia es 440 hertz.
+
+{{clear}}
+
+==== Traducciones ====
+{{trad-arriba}}
+{{t+|fr|la}}
+{{trad-centro}}
+{{t+|en|la}}
+{{trad-abajo}}
+
+== {{lengua|rup}} ==
+{{pron-graf|leng=rup}}
+
+=== Etimología ===
+{{etimología|leng=rup|la|illac|alt=illāc|allá}}.
+
+=== {{preposición|rup}} ===
+;1: {{plm|a}} (un lugar).
+
+;2: {{plm|por}} (un lugar).
+
+== {{lengua|ast}} ==
+{{pron-graf|la|leng=ast}}
+
+=== Etimología ===
+{{etimología|leng=ast|roa-ole|la|la}}, y esta del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+=== {{artículo determinado|ast}} ===
+;1: {{plm}}.
+{{uso|leng=ast|Antes de vocales, se escribe {{l+|ast|l’}}}}.
+
+=== {{pronombre personal|ast}} ===
+;2: {{plm}}.
+
+== {{lengua|osp}} ==
+{{pron-graf|la|leng=osp}}
+
+=== Etimología ===
+{{etimología|leng=osp|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|osp}} ===
+;1: {{plm}}.
+
+=== {{pronombre personal|osp}} ===
+;2: {{plm}}.
+
+== {{lengua|ca}} ==
+{{pron-graf|ɫa|leng=ca}}
+
+=== Etimología 1 ===
+{{etimología|leng=ca|roa-oca|la|la}}, y esta del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+==== {{artículo determinado|ca}} ====
+;1: {{plm}}.
+{{uso|leng=ca|Antes de vocales, se escribe {{l+|ca|l’}}}}.
+{{sinónimo|leng=ca|sa}}.
+{{hipónimo|leng=ca|na}}.
+
+==== {{pronombre personal|ca}} ====
+;2: {{plm}}.
+{{uso|leng=ca|Antes de vocales, se escribe {{l+|ca|l’}}}}.
+
+==== {{adverbio de lugar|ca}} ====
+;3: {{variante obsoleta|leng=ca|lla}}.
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=ca|la|labii}}.
+
+==== {{sustantivo masculino|ca}} ====
+{{inflect.ca.sust.reg}}
+
+;1 {{música|leng=ca}}: {{plm}}.
+
+==== Información adicional ====
+{{anagrama|leng=ca|al}}.
+
+== {{lengua|roa-oca}} ==
+{{pron-graf|leng=roa-oca}}
+
+=== Etimología ===
+{{etimología|leng=roa-oca|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|roa-oca}} ===
+;1: {{plm}}.
+
+=== {{pronombre personal|roa-oca}} ===
+;2: {{plm}}.
+
+== {{lengua|ht}} ==
+{{pron-graf|leng=ht}}
+
+=== Etimología 1 ===
+{{etimología|leng=ht|fr|la|la}}.
+
+==== {{artículo determinado|ht}} ====
+;1: {{plm}}. (Usado después de una palabra que se termina en vocal oral (no nasal) y una consonante oral.)
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=ht|fr|art|alt=l’art}}
+
+==== {{sustantivo|ht}} ====
+;1 {{arte|leng=ht}}: {{plm|arte}}.
+
+== {{lengua|dlm}} ==
+{{pron-graf|leng=dlm}}
+
+=== Etimología ===
+{{etimología|leng=dlm|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|dlm}} ===
+;1: {{plm}}.
+
+== {{lengua|eo}} ==
+{{pron-graf|leng=eo|fone=la}}
+
+=== Etimología ===
+{{etimología|la|illa|significado=no|leng=eo}}
+
+=== {{artículo determinado|eo}} ===
+;1: {{plm|el}}, {{l|es|la}}, {{l|es|las}}, {{l|es|los}}.
+
+== {{lengua|fr}} ==
+{{pron-graf|la|leng=fr|audio=Fr-la.ogg|pron=Francia
+|h=là|h2=las}}
+
+=== Etimología 1 ===
+{{etimología|leng=fr|frm|la|la}}, y esta del francés antiguo {{l+|fro|la|glosa=la}}, del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+==== {{artículo determinado|fr}} ====
+;1: {{plm}}.
+{{uso|leng=fr|Antes de vocales, se escribe {{l+|fr|l’}}}}.
+
+==== {{pronombre personal|fr}} ====
+;2: {{plm}}.
+{{uso|leng=fr|Antes de vocales, se escribe {{l+|fr|l’}}}}.
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=fr|la|labii}}.
+
+==== {{sustantivo masculino|fr}} ====
+{{inflect.fr.sust.reg}}
+
+;1 {{música|leng=fr}}: {{plm}}.
+
+== {{lengua|fro}} ==
+{{pron-graf|la|leng=fro
+|v=le|vnota=nominativa}}
+
+=== Etimología 1 ===
+{{etimología|leng=fro|la|ille|alt=illa|aquella}}.
+
+==== {{artículo determinado|fro}} ====
+;1: {{plm}}.
+
+==== {{pronombre personal|fro}} ====
+;2: {{plm}}.
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=fro|la|illac|alt=illāc}}.
+
+==== {{adverbio de lugar|fro}} ====
+;1: {{plm|ahí}}, {{l|es|allá}}, {{l|es|allí}}.
+
+== {{lengua|frm}} ==
+{{pron-graf|la|leng=frm}}
+
+=== Etimología ===
+{{etimología|leng=frm|fro|la|la}}, y esta del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+=== {{artículo determinado|frm}} ===
+;1: {{plm}}.
+
+=== {{pronombre personal|frm}} ===
+;2: {{plm}}.
+
+=== {{adverbio de lugar|frm}} ===
+;3: {{grafía|leng=frm|là|glosa=allí}}.
+
+== {{lengua|frp}} ==
+{{pron-graf|leng=frp}}
+
+=== Etimología ===
+{{etimología|leng=frp|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|frp}} ===
+;1: {{plm}}.
+
+== {{lengua|fur}} ==
+{{pron-graf|leng=fur}}
+
+=== Etimología ===
+{{etimología|leng=fur|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|fur}} ===
+;1: {{plm}}.
+{{uso|leng=fur|Antes de vocales, se escribe {{l+|fur|l’}}}}.
+
+== {{lengua|gl}} ==
+{{pron-graf|la|leng=gl}}
+
+=== Etimología 1 ===
+{{etimología|leng=gl|len=gl}}
+
+==== {{pronombre personal|gl}} ====
+;1: {{variante|leng=gl|a}}. (Usado cuando la palabra precedente se termina en -s o -s, y se sufija a la palabra precedente.)
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=gl|la|labii}}.
+
+==== {{sustantivo masculino|gl}} ====
+{{inflect.gl.sust.reg}}
+
+;1 {{música|leng=gl}}: {{plm}}.
+
+{{clear}}
+
+=== Etimología 3 ===
+{{pron-graf|leng=gl
+|v=lan}}
+{{etimología|leng=gl}}
+
+==== {{sustantivo femenino|gl}} ====
+{{inflect.gl.sust.sing.tantum}}
+
+;1: {{plm|lana}}.
+{{hiperónimo|leng=gl|pelo}}.
+
+== {{lengua|haw}} ==
+{{pron-graf|leng=haw}}
+
+=== Etimología ===
+{{etimología|protopolinesio|*la'ā|leng=haw}}
+
+=== {{sustantivo|haw}} ===
+;1: {{plm|sol}}.
+
+== {{lengua|io}} ==
+{{pron-graf|leng=io}}
+
+=== Etimología 1 ===
+{{etimología|leng=io|eo|la|la}}.
+
+==== {{artículo determinado|io}} ====
+;1: {{plm|el}}, {{l|es|la}}.
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=io|de|A||fr|la||en|la||it|la||ru|ля}}.
+
+==== {{sustantivo|io}} ====
+{{inflect.io.sust||link=|[[le la]] ''o'' [[lai]]}}
+;1 {{música|leng=io}}: {{plm}}.
+
+== {{lengua|ia}} ==
+{{pron-graf|leng=ia}}
+
+=== Etimología ===
+{{etimología|leng=ia}}
+
+=== {{pronombre personal|ia}} ===
+;1: {{plm}}.
+
+;2: {{plm|le}} (pronombre femenino).
+
+== {{lengua|sga}} ==
+{{pron-graf|leng=sga}}
+
+=== Etimología ===
+{{etimología|leng=sga}}
+
+=== {{preposición de acusativo|sga}} ===
+;1: {{plm|con}}.
+
+== {{lengua|ist}} ==
+{{pron-graf|leng=ist}}
+
+=== Etimología ===
+{{etimología|leng=ist|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|ist}} ===
+;1: {{plm}}.
+
+== {{lengua|it}} ==
+{{pron-graf|la|leng=it}}
+
+=== Etimología 1 ===
+{{etimología|leng=it|la|ille|alt=illam|aquella}}.
+
+==== {{artículo determinado|it}} ====
+;1: {{plm}} (''artículo definido femenino del singular. Su plural es'' {{l|it|le}}).
+{{uso|leng=it|ante palabras que comienzan con vocal se utiliza la elisión {{l+|it|l’}}}}.
+
+==== {{pronombre personal|it}} ====
+{{inflect.it.pron.pers.3}}
+
+;2: {{plm}} (''pronombre personal acusativo de género femenino, tercera persona en singular. Su plural es'' {{l|it|le}}).
+{{uso|leng=it|ante palabras que comienzan con sonido vocal se utiliza la elisión {{l+|it|l’}}}}.
+
+{{clear}}
+
+=== Etimología 2 ===
+{{etimología|leng=it|la|labii}}.
+
+==== {{sustantivo masculino|it}} ====
+{{inflect.it.sust.invariante}}
+
+;1 {{música|leng=it}}: Nota musical {{l|es|la}}.
+
+==== Locuciones ====
+*{{l+|it|la maggiore}}
+*{{l+|it|la minore}}
+
+==== Información adicional ====
+{{anagrama|leng=it|al}}.
+
+==== Véase también ====
+{{w|leng=it}}.
+
+== {{lengua|nrf}} ==
+{{pron-graf|la|leng=nrf|audio=Jer-la.ogg}}
+
+=== Etimología ===
+{{etimología|leng=nrf|fro|la|la}}, y esta del latín {{l+|la|ille|illam|aquella}}.
+
+=== {{artículo determinado|nrf}} ===
+;1: {{plm}}.
+{{ámbito|leng=nrf|Jersey}}.
+
+== {{lengua|lad}} ==
+{{pron-graf|leng=lad
+|g=לה}}
+
+=== Etimología ===
+{{etimología|leng=lad|osp|ela||osp|la|glosa2=la}}, y estas del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+=== {{artículo determinado|lad}} ===
+;1: {{plm}}.
+
+=== {{pronombre personal|lad}} ===
+;2: {{plm}}.
+
+== {{lengua|lld}} ==
+{{pron-graf|leng=lld}}
+
+=== Etimología ===
+{{etimología|leng=lld|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|lld}} ===
+;1: {{plm}}.
+{{uso|leng=lld|Antes de vocales, se escribe {{l+|lld|l’}}}}.
+
+== {{lengua|crg}} ==
+{{pron-graf|la|leng=crg}}
+
+=== Etimología ===
+{{etimología|leng=crg|fr|la|la}}.
+
+=== {{artículo determinado|crg}} ===
+;1: {{plm}}.
+
+== {{lengua|mwl}} ==
+{{pron-graf|leng=mwl}}
+
+=== Etimología ===
+{{etimología|leng=mwl|roa-ole|la|la}}, y esta del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+=== {{artículo determinado|mwl}} ===
+;1: {{plm}}.
+
+== {{lengua|omc}} ==
+{{pron-graf|leng=omc}}
+
+=== Etimología ===
+{{etimología|leng=omc}}
+
+=== {{sustantivo|omc}} ===
+;1 {{bebida|y|líquidos|leng=omc}}: {{plm|agua}}.
+
+== {{lengua|nap}} ==
+{{pron-graf|leng=nap}}
+
+=== {{artículo determinado|nap}} ===
+;1: {{variante|leng=nap|’a|glosa=la}}.
+
+== {{lengua|nov}} ==
+{{pron-graf|leng=nov}}
+
+=== Etimología ===
+{{etimología|leng=nov}}
+
+=== {{pronombre personal|nov}} ===
+;1: {{plm|ella}}.
+{{sinónimo|leng=nov|le}}.
+
+;2: {{plm}}.
+{{hipónimo|leng=nov|le}}.
+
+== {{lengua|oc}} ==
+{{pron-graf|la|leng=oc
+|v=era|vnota=gascón}}
+
+=== Etimología ===
+{{etimología|leng=oc|pro|la|la}}, y esta del latín {{l+|la|ille|illam|glosa=aquella}}.
+
+=== {{artículo determinado|oc}} ===
+;1: {{plm}}.
+{{uso|leng=oc|Antes de vocales, se escribe {{l+|oc|l’}}}}.
+
+=== {{pronombre personal|oc}} ===
+;2: {{plm}}.
+{{uso|leng=oc|Antes de vocales, se escribe {{l+|oc|l’}}}}.
+
+== {{lengua|pt}} ==
+{{pron-graf|lɐ|leng=pt}}
+
+=== {{pronombre personal|pt}} ===
+;1: {{variante|leng=pt|a}}. (Usado como enclítico y mesoclítico siguiendo la forma verbal terminado en algunas consonante: -s, -r, -z mas no -m. La consonante es elidida y la vocal precedente se escribe con tilde si necesario).
+
+== {{lengua|pro}} ==
+{{pron-graf|leng=pro}}
+
+=== Etimología ===
+{{etimología|leng=pro|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|pro}} ===
+;1: {{plm}}.
+
+=== {{pronombre personal|pro}} ===
+;2: {{plm}}.
+
+== {{lengua|ro}} ==
+
+=== Etimología 1 ===
+{{pron-graf|la|leng=ro
+|g=ла|gnota=Moldavia}}
+{{etimología|leng=ro|la|illac|alt=illāc}}.
+
+==== {{preposición de acusativo|ro}} ====
+;1: {{plm|a}}.
+
+;2: {{plm|hacia}}.
+
+==== Locuciones ====
+*{{l+|ro|de la}}
+
+{{clear}}
+
+=== Etimología 2 ===
+{{pron-graf|la|leng=ro
+|v=lăia|vnota=Transilvania}}
+{{etimología|leng=ro|la|lavo|alt=lavāre|lavar}}.
+
+==== {{verbo transitivo|ro}} ====
+;1: {{plm|lavar}}.
+{{uso|leng=ro|popular}}.
+{{sinónimo|leng=ro|îmbăia|scălda|se spăla}}.
+
+==== Conjugación ====
+{{ro.v.conj|irreg=sí|la|lăut|lând|lare|lau|lai|lă|lăm|lați|lau|lam|lai|la|lam|lați|lau|lăui|lăuși|lău|lăurăm|lăurăți|lăură|lăusem|lăuseși|lăuse|lăuserăm|lăuserăți|lăuseră|lau|lai|lea<br>laie<br>leie |lăm|lați|lea<br>laie<br>leie|lă|lați}}
+
+{{clear}}
+
+==== Información adicional ====
+{{rel-arriba|Cognados rumanos}}
+*{{l+|ro|lăutoare}}
+*{{l+|ro|lăutură}}
+{{rel-centro}}
+*{{l+|ro|lături}}
+*{{l+|ro|lăun}}
+{{rel-abajo}}
+
+[[Categoría:RO:Lista Swadesh]]
+
+== {{lengua|scn}} ==
+{{pron-graf|leng=scn
+|v=â|vnota=coloquial}}
+
+=== Etimología ===
+{{etimología|leng=scn|la|ille|alt=illam|aquella}}.
+
+=== {{artículo determinado|scn}} ===
+;1: {{plm}}.
+
+== {{lengua|tar}} ==
+{{pron-graf|leng=tar}}
+
+=== Etimología ===
+{{etimología|leng=tar}}
+
+=== {{sustantivo|tar}} ===
+;1: {{plm|sangre}}.
+
+== {{lengua|wa}} ==
+{{pron-graf|la|leng=wa
+|g=là}}
+
+=== Etimología ===
+{{etimología|leng=wa|fro|la}}, y esta del latín {{l+|la|illac|illāc}}.
+
+=== {{adverbio de lugar|wa}} ===
+;1: {{plm|ahí}}, {{l|es|allá}}, {{l|es|allí}}.
+{{sinónimo|leng=wa|låvå}}.
+{{antónimo|leng=wa|chal|ciddé|droci|vaici}}.
+
+=== {{artículo determinado|wa}} ===
+;2: {{variante|leng=wa|li}}.
+
+== Referencias y notas ==
+<references />

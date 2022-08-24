@@ -1,0 +1,57 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈmo.ðo}}
+
+=== Etimología ===
+{{etimología|la|modus|sig=no}}
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.reg}}
+
+;1: {{plm|forma}} de hacerse, ocurrir o ser algo.
+{{sinónimo|manera}}
+;2: {{plm|sistema}} para [[realizar]] una acción.
+{{sinónimo|método}}
+;3: {{plm|apariencia}} de una cosa, persona, animal o acción.
+{{sinónimo|aspecto}}
+;4 {{lingüística}}: Característica [[gramatical]] de los [[verbo]]s, expresada en su [[flexión]], que indica el grado de realidad o posibilidad percibido por el hablante respecto a lo indicado por el verbo.
+;5 {{música}}: Forma en que se distribuyen los [[tono]]s de una [[escala musical]].
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba|Locuciones con «modo»}}
+* [[modo de articulación]]: posición de los órganos del habla para [[emitir]] cada sonido [[lingüístico]]
+* [[modo imperativo]]
+* [[modo indicativo]]
+* [[modo mayor]]
+* [[modo menor]]
+* [[modo optativo]]
+* [[modo potencial]]
+* [[modo subjuntivo]]
+{{rel-centro}}
+* [[a modo de]], [[al modo de]]: como, al estilo de
+* a mi modo, a tu modo, a su modo, etc.: de la manera que sabe, puede o suele actuar la persona aludida
+* [[de cualquier modo]]: [[como sea]], [[en cualquier caso]]
+* [[de modo que]]: [[entonces]], forma de introducir el resultado o la consecuencia de algo
+* [[de ningún modo]] = [[en modo alguno]]: [[de ninguna manera]], [[en absoluto]], [[jamás]], forma de indicar negación enfática
+* [[ni modo]]: forma de indicar que algo no tiene solución o remedio
+* [[sobre modo]]: [[sobremanera]], extremadamente
+{{rel-abajo}}
+
+=== Información adicional ===
+*Anagramas: domo
+*Pares mínimos: [[moda]], medo, mido, [[mudo]], [[moco]], mofo, [[moho]], mojo, molo, [[mono]], [[moño]], [[moro]], [[morro]], [[moto]], [[mozo]], [[codo]], [[dodo]], [[godo]], jodo, [[lodo]], nodo, podo, [[todo]]
+
+=== Véase también ===
+{{w}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+<!-- formato: {{t+|idioma|<acepción#>|palabra|género}} p. ej. {{t+|fr|1|chose|f}} -->
+{{trad-centro}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

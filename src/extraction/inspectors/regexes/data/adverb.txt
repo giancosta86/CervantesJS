@@ -1,0 +1,6 @@
+\{\{
+    \s*adverbio
+        (?:
+            \s+de\s+(?<kind>\p{L}+)
+            \s*
+        )?

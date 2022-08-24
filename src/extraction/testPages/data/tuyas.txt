@@ -1,0 +1,8 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈtu.ʝas}}
+
+=== Forma adjetiva y de pronombre ===
+;1: {{forma pronombre|leng=es|tuya|num=2|plural}}.
+
+== Referencias y notas ==
+<references />

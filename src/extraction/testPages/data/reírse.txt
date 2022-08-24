@@ -1,0 +1,38 @@
+== {{lengua|es}} ==
+{{pron-graf}}
+
+=== Etimología ===
+{{etimología}}.
+
+=== {{verbo pronominal|es}} ===
+;1: Mostrar alegría con movimientos de la boca y de la cara emitiendo sonidos no articulados.
+{{sinónimo|carcajear|estallar en carcajadas}}.
+{{hipónimo|sonreír|desternillarse de la risa}}.
+{{hiperónimo|alegrarse|festejar|celebrar}}.
+;2: Hacer burla de algo.
+{{sinónimo|burlarse|mofarse}}.
+:*'''Ejemplo:''' ''Se ríe'' de su mala suerte.
+;3: Hacer caso omiso de una norma explícita o de algo que pudiera perjudicar.
+{{uso|figurado}}
+
+=== Locuciones ===
+*[[reírse de los peces de colores]]
+*[[reírse en la cara]] (a alguien): Humillar, hacer pasar vergüenza
+
+=== Conjugación ===
+{{es.v.conj.eír|r|pronominal=s|notas=La variación vocálica de este verbo puede encontrarse también en [[desleír]], [[engreír]], [[freír]] y [[sonreír]], así como en sus derivados.}}
+
+=== Véase también ===
+*[[reír]]
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ain|ミナ}}
+<!-- formato: {{t+|idioma|<acepción#>|palabra|género}} p. ej. {{t+|fr|1|chose|f}} -->
+{{trad-centro}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

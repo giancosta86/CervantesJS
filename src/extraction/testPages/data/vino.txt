@@ -1,0 +1,209 @@
+{{desambiguación|viño}}
+== {{lengua|es}} ==
+{{pron-graf|fono=ˈbi.no|ac=g}}
+===Etimología===
+{{etimología|latín vulgar|vinus}}, y este del clásico {{l+|la|vinum}}, del protoindoeuropeo {{l+|ine|*wóinom}}.<ref>Mallory, J. P. & Adams, Douglas Q. (2006) ''The Oxford introduction to Proto-Indo-European and the Proto-Indo-European world''. Oxford: OUP, p. 166. ISBN 9780199287918</ref>, en última instancia de la raíz {{l+|ine|*weih₃-}}. Compárese el catalán {{l+|ca|vi}}, el francés {{l+|fr|vin}}, el italiano {{l+|it|vino}}, el rumano {{l+|ro|vin}} o el portugués {{l+|pt|vinho}}.
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.reg}}
+;1 {{bebida}}: {{ucf|bebida alcohólica}} elaborada a partir de la [[fermentación]] de la [[uva]], con o sin los [[hollejo]]s
+
+;2 {{bebida}}: Por extensión, cualquier bebida alcohólica [[fermentar|fermentada]]
+{{uso|anticuado|o|literario}}.
+=== {{adjetivo|es}} ===
+{{inflect.es.adj.invariante}}
+;3: De color [[rojo]] [[intenso]], como el del vino{{-sub|1}} [[tinto]]. {{color|#800000}}
+:*'''Sinónimos:''' [[bordó]], [[borgoña]], [[borravino]], [[burdeos]].
+{{relacionado|granate}}.
+=== Forma verbal ===
+;4: {{forma verbo|venir|3s|pret ind|indicativo}}.
+=== Locuciones ===
+{{rel-arriba|Locuciones con «vino»}}
+* [[vino abocado]] o [[vino embocado|embocado]]: el ligeramente dulce
+* [[vino albillo]]: el hecho con la uva del mismo nombre
+* [[vino aloque]], [[vino clarete|clarete]] o [[vino rosado|rosado]]: el tinto ligero y de color claro
+* [[vino amontillado]]
+* [[vino atabernado]]: el que se fracciona en el local de consumo
+* [[vino añejo]]: vino reposado en barrica durante más de un año
+* [[vino blanco]]: el de color amarillento o verdoso
+* [[vino cubierto]]: el tinto de color oscuro
+* [[vino de aguja]]: [[espumante]]
+* [[vino de cabezas]]: [[aguapié]]
+* [[vino de coco]]: aguardiente de tuba de coco
+* [[vino de dos años]]
+* [[vino de dos hojas]]
+* [[vino de dos orejas]]
+* [[vino de garnacha]]: el hecho con la uva del mismo nombre
+* [[vino de garrote]]: el que se obtiene prensando con fuerza
+* [[vino de honor]]: el que se usa en un acto solemne
+* [[vino de lágrima]]
+* [[vino de mesa]] o [[vino de pasto|de pasto]]: el de mediana calidad, usado en la mesa cotidiana
+* [[vino de nipa]]: aguardiente de tuba de nipa
+* [[vino de pitarra]]: el de elaboración casera
+* [[vino de postre]]: el de alto tenor de azúcar, apto para consumir con dulces
+* [[vino de quema]]: el que se usa para destilar
+* [[vino de solera]]: el añejo que se usa para perfeccionar una nueva tanda
+* [[vino de una oreja]]
+* [[vino de yema]]: el de mejor calidad de una cuba, obtenido del centro de la misma
+* [[vino dulce]]
+* [[vino generoso]]: el fortificado con licor
+* [[vino joven]]: el que no está añejado
+{{rel-centro}}
+* [[vino litreado]]: el que se vende a granel por litros
+* [[vino medicinal]] o [[vino medicamentoso|medicamentoso]]: el compuesto con alguna sustancia medicamentosa
+* [[vino moscatel]]: el hecho con la uva del mismo nombre 
+* [[vino pardillo]]: vino de mediana calidad, entre blanco y tinto
+* [[vino peleón]]: el de menor calidad
+* [[vino seco]]: el que, por su bajo tenor de azúcar, no muestra sabor dulce alguno
+* [[vino tinto]]: el de color rojo subido, macerado con los hollejos
+* [[vino verde]]: vino seco áspero (Castilla); el de aguja que se elabora joven en Portugal
+* [[vino de hielo]]
+* [[vino de paja]]
+* [[vino varietal]]
+* [[vino de corte]]
+* [[vino de arroz]]
+* ({{l|es|llamar al pan, pan, y al vino, vino|llamar}}) {{l|es|al pan, pan, y al vino, vino}}
+* [[amigo de taza de vino]]
+* [[concho de vino]]: color vino{{-sub|3}}
+* [[espolada de vino]]: trago de vino
+* [[espíritu de vino]]: aguardiente de vino
+* [[limonada de vino]]: bebida elaborada mezclando limonada y vino
+* [[sopa de vino]]: sopa elaborada con vino; flor del abrojo (''Centaurea calcitrapa'')
+* [[aguar el vino]]: adulterarlo con agua
+* [[bautizar el vino]]
+* [[cristianar el vino]]
+* [[dormir el vino]]: dormir la mona
+* [[echar agua al vino]]: morigerar una expresión ofensiva
+* [[pan o vino]]
+* [[pregonar vino y vender vinagre]]
+* [[tener buen vino]]: ser pacífico cuando borracho
+* [[tener mal vino]]: ser agresivo cuando borracho
+* [[tomarse del vino]]: emborracharse
+{{rel-abajo}}
+=== Información adicional ===
+{{derivad|tit=Vinculados etimológicamente|vendimia|vinagre|vinícola|vinicultor|vinicultura|vinolento|vinoso|viña|viñedo}}.
+{{anagrama|ovni}}.
+*'''Pares mínimos:''' [[fino]], [[lino]], [[mino]], [[pino]], [[sino]], [[tino]], [[vano]], [[bono]], [[Vigo]], [[vilo]], [[virar|viro]], [[viso]], [[vivo]]
+{{rima|i.no}}.
+=== Véase también ===
+{{W}}.
+{{Wikiquote}}
+
+===Traducciones===
+{{trad-arriba}}
+{{t+|de|1|Wein|m}}
+{{t+|am|1|ወይን ጠጅ}} (wŏyn ṭäj)
+{{t+|ar|1|خمر}} (ḫamr) {{m}} y {{f}}, {{trad|ar|نبيذ}} nabīḏ {{m}}
+{{t+|br|1|gwin|m}}
+{{t+|bg|1|вино|n}}
+{{t+|cs|víno}}
+{{t+|kw|1|gwyn|m}}
+{{t+|sl|1|vino|n}} 
+{{t+|eu|1|ardo|,|1|arno}}
+{{t+|fi|1|viini}}
+{{t+|fr|1|vin|m}}
+{{t+|ka|ღვინო|tr=[[ghvino]]}}
+{{t+|got|1|𐌱𐌰𐌻𐌲𐍃}} (balgs)
+{{t+|grc|1|οἶνος}}
+{{t+|el|1|κρασί|n|,|1|οίνος|m}}
+{{t+|ha|2|bammi}} (vino de palma) {{m}} 
+{{t+|haw|1|waina}}
+{{t+|he|1|יין}} (yáyin) {{m}} 
+{{trad-centro}}
+{{t+|hu|1|bor}}
+{{t+|en|1|wine}}
+{{t+|ga|1|fíon|m}}
+{{t+|is|1|vín|n}}
+{{t+|it|1|vino}}
+{{t+|ja|1|ワイン}} ("wain")
+{{t+|jv|anggur}}
+{{t+|mg|divay}}
+{{t+|mt|1|inbid}}
+{{t+|arn|1|pulku}}
+{{t+|nci|1|huino|,|tlapaloctli}}
+{{t+|nhp|1|okti}}
+{{t+|nl|1|wijn|m}}
+{{t+|pl|1|wino}}
+{{t+|pt|1|vinho}}
+{{t+|ru|1|вино|n}}
+{{t+|so|2|khamri|,|2|khamro}}
+{{t+|sw|1|divai}}
+{{t+|vo|1|vin}}
+{{t+|yo|1|otí òyìnbóotí èso àjàràwáìn}}
+{{trad-abajo}}
+
+== {{lengua|hr}} ==
+{{pron-graf|leng=hr}}
+===Etimología===
+{{etimología|leng=hr}}.
+=== {{sustantivo|hr}} ===
+;1: {{ucf}}.
+
+== {{lengua|eo}} ==
+{{pron-graf|leng=eo}}
+===Etimología===
+{{etimología|leng=eo|la|vinum}}, del protoindoeuropeo {{l+|ine|*wóinom}}, en última instancia de la raíz {{l+|ine|*weih₃-}}.
+=== {{sustantivo|eo}} ===
+{{inflect.eo.sust}}
+
+;1 {{bebida|leng=eo}}: {{ucf}}.
+
+== {{lengua|fi}} ==
+{{pron-graf|leng=fi}}
+===Etimología===
+{{etimología|leng=fi}}
+
+=== {{adjetivo|fi}} ===
+{{fi-decl-valo|vin}}
+
+;1: {{ucf|torcido}}, [[oblicuo]], [[sesgado]].
+
+== {{lengua|io}} ==
+{{pron-graf|leng=io}}
+===Etimología===
+{{etimología|leng=io|la|vinum}}, del protoindoeuropeo {{l+|ine|*wóinom}}, en última instancia de la raíz {{l+|ine|*weih₃-}}
+
+=== {{sustantivo|io}} ===
+{{inflect.io.sust|vin}}
+;1 {{bebida|leng=io}}: {{plm}}.
+
+== {{lengua|en}} ==
+{{pron-graf|leng=en|fono=ˈviː.noʊ|pron=Estados Unidos|2pron=Reino Unido|2fono=ˈviː.nəʊ}}
+===Etimología===
+{{etimología|leng=en|es|vino}}, y este del latín vulgar {{l+|la|vinus}}, y este del clásico {{l+|la|vinum}}, del protoindoeuropeo {{l+|ine|*wóinom}}, en última instancia de la raíz {{l+|ine|*weih₃-}}.
+=== {{sustantivo|en}} ===
+{{inflect.en.sust.nocontable}}
+
+;1 {{bebida|leng=en}}: {{ucf}}.
+{{uso|jerga|o|jocoso|leng=en}}.
+
+== {{lengua|it}} ==
+{{pron-graf|leng=it|fono='vino|audio=It-il vino.ogg}}
+===Etimología===
+{{etimología|leng=it|latín vulgar|vinus}}, y este del clásico {{l+|la|vinum}}, del protoindoeuropeo {{l+|ine|*wóinom}}, en última instancia de la raíz {{l+|ine|*weih₃-}}.
+=== {{sustantivo masculino|it}} ===
+{{inflect.it.sust.reg|vin|o}}
+;1 {{bebida|leng=it}}: {{ucf|vino}}.
+
+== {{lengua|mol}} ==
+{{pron-graf|leng=mol}}
+===Etimología===
+{{etimología|leng=mol}}.
+==={{sustantivo|mol}}===
+;1 {{bebidas|leng=mol}}: {{ucf|vino}}.
+
+== {{lengua|nci}} ==
+{{pron-graf|leng=nci|fono=|ga=huino}}
+===Etimología===
+{{etimología|leng=nci}}.
+=== {{sustantivo|nci}} ===
+;1: {{grafía obsoleta|leng=nci|huino}}: "vino".
+[[Categoría:NCI:Ortografía de Alonso de Molina]]
+== {{lengua|nap}} ==
+{{pron-graf|fono='vino}}
+===Etimología===
+{{etimología|leng=nap|latín vulgar|vinus}}, y este del clásico {{l+|la|vinum}}, del protoindoeuropeo {{l+|ine|*wóinom}}, en última instancia de la raíz {{l+|ine|*weih₃-}}.
+=== {{sustantivo masculino|nap}} ===
+;1 {{bebida|leng=nap}}: {{ucf|vino}}.
+
+= <small>Referencias y notas</small> =
+<references />

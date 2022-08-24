@@ -1,0 +1,48 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈto.ɾaks}}
+
+=== Etimología ===
+{{etimología|la|thorax||grc|θώραξ|tr2=thṓrax}}.
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.invariante}}
+
+;1 {{anatomía}}: Parte del [[cuerpo]] comprendida entre el [[cuello]] y el [[abdomen]].
+{{sinónimo|pecho}}.
+;2 {{zoología}}: Región [[pectoral]] de los [[artrópodo]]s, comprendida entre la [[cabeza]] y el [[abdomen]]
+
+=== Locuciones ===
+*[[tórax en embudo]]: Hundimiento cónico de la pared anterior del tórax
+*[[tórax piriforme]]: El que es estrecho con el [[esternón]] saliente en ángulo y las [[costilla]]s hundidas.
+
+=== Información adicional ===
+{{derivad|cefalotórax|neumotórax}}.
+
+=== Véase también ===
+{{w}}.
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ast|tórax}}
+{{trad-centro}}
+{{t+|en|thorax}}
+{{trad-abajo}}
+
+== {{lengua|ast}} ==
+{{pron-graf|leng=ast|fone=ˈto.ɾa(k)s}}
+
+=== Etimología ===
+{{etimología|leng=ast|la|thorax||grc|θώραξ|tr2=thṓrax}}.
+
+=== {{sustantivo masculino|ast}} ===
+{{inflect.es.sust.invariante}}
+;1 {{anatomía|leng=ast}}: {{plm}}.
+{{sinónimo|leng=ast|caxa|pechu}}.
+
+=== Véase también ===
+{{w|leng=ast}}.
+
+== Referencias y notas ==
+<references />

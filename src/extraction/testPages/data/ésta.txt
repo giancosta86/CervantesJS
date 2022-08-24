@@ -1,0 +1,14 @@
+{{desambiguación|esta|está}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈes.ta}}
+
+=== Forma de pronombre demostrativo ===
+;1: {{grafía|esta|texto=Grafía anticuada de}}{{impropia|, femenino de}} {{l|es|este|num=2}} <small>{{impropia|(pronombre o adjetivo para indicar algo o a alguien que está cerca de quien habla).}}</small>
+{{uso|{{reforma 2010}}}}. Se empleaba solamente cuando había riesgo de ambigüedad sobre si se trataba de un [[pronombre]] o de un [[adjetivo]].<ref>{{no-tilde|esta|2=el pronombre}}</ref>
+
+=== Traducciones ===
+{{véase|1|esta}} '''''y/o en''''' {{l|es|este|«este»|num=2}}
+
+== Referencias y notas ==
+<references />

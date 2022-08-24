@@ -1,0 +1,74 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈso.βɾe}}
+
+=== Etimología 1 ===
+{{etimología|la|super|}}
+
+==== {{preposición|es}} ====
+;1: En la parte superior de algo.
+{{sinónimo|encima}}
+:*'''Ejemplo:''' El sombrero ''sobre'' la cabeza.
+;2: En torno a algo.
+{{sinónimo|acerca de}}
+:*'''Ejemplo:''' Una discusción ''sobre'' el medio ambiente.
+;3: Más o menos.
+{{sinónimo|alrededor|aproximadamente}}
+:*'''Ejemplo:''' Su valor es ''sobre'' los diez mil euros.
+;4: Con posterioridad.
+{{sinónimo|después}}
+:*'''Ejemplo:''' Iremos por ti ''sobre'' el almuerzo.
+;5: Agregado o añadido.
+{{sinónimo|además}}
+:*'''Ejemplo:''' El fin de año, ''sobre'' el sueldo recibimos un aguinaldo.
+
+==== {{sustantivo masculino|es}} ====
+{{inflect.es.sust.reg}}
+
+;6 {{náutica}}: {{plm|verga}} y [[vela]] que van en los [[mastelero]]s de [[sobrejuanete]], sobre los masteleros de [[juanete]].
+{{uso|se usa en plural}}
+
+==== Locuciones ====
+* [[sobre mayor]]
+* [[sobre de mesana]]
+* [[sobre de proa]]
+
+{{clear}}
+
+==== Traducciones ====
+{{trad-arriba}}
+{{t+|ain|1|カ タ|,|カ}}
+{{t+|br|1|war}}
+{{t+|fr|1|sur}}
+{{trad-centro}}
+{{t+|en|above}}
+{{t+|nci|ipan}}
+{{trad-abajo}}
+
+{{clear}}
+
+=== Etimología 2 ===
+{{pron-graf|fone=ˈso.βɾe}}
+[[Archivo:Envelope_-_Boonville_Address-002.jpg|thumb|[1]]]
+{{etimología}}
+
+==== {{sustantivo|es}} ====
+;1: {{plm|envoltorio}} de la [[correspondencia]].
+;2: {{plm|cama}} ([[mueble]] en el que se [[dormir|duerme]])
+{{sinónimo|piltra}}
+{{uso|coloquial}}
+{{ejemplo|Estoy muy a gusto charlando con él, pero al final ya es hora de dormir y me voy al sobre}}[http://pedaleandocuba.wordpress.com/tag/barbero/ ]
+;3: {{plm|empaque}} en forma de bolsa sellada en donde se expenden mezclas en polvo para preparar alimentos instantáneamente. También se emplea para otros alimentos a fin de abaratar el costo de sus envases originales.
+
+{{clear}}
+
+==== Traducciones ====
+{{trad-arriba}}
+{{t+|de|1|Briefumschlag|m}}
+{{trad-centro}}
+{{t+|hu|boríték}}
+{{t+|en|envelope}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+* [http://books.google.ch/books?id=Els7AQAAIAAJ&pg=PA480 Diccionario marítimo español por José de Lorenzo, Gonzalo de Murga, Martín Ferreiro y Peralto. Establecimiento Tipográfico de T. Fortanet, 1864 - 619 páginas]
+* [http://books.google.ch/books?id=sYbMAJcIcMsC&pg=PA494 "Diccionario marítimo español: que además de las definiciones de las voces con sus equivalentes en francés, inglés e italiano, contiene tres vocabularios de estos idiomas con las correspondencias castellanas" por Imprenta Real (Madrid). en la Imprenta Real, 1831 - 772 páginas]

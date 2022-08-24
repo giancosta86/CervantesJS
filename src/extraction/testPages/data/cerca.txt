@@ -1,0 +1,65 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈθeɾ.ka|2fone=ˈseɾ.ka|audio=LL-Q1321 (spa)-Rodelar-cerca.wav}}
+
+=== Etimología 1 ===
+{{etimología|la|circa|sig=no}}.
+
+==== {{adverbio de lugar|es}} ====
+;1: A pequeña [[distancia]].
+{{antónimo|lejos}}
+:*'''Ejemplo:''' Perdone, ¿hay una gasolinera por aquí ''cerca''?
+
+==== {{adverbio de tiempo|es}} ====
+;2: {{definición impropia|Indica proximidad temporal.}}
+{{sinónimo|inmediatamente|próximamente}}
+
+==== Locuciones ====
+{{rel-arriba|Locuciones con «cerca»}}
+* [[de cerca]]
+* [[en  cerca]]
+{{rel-centro}}
+* [[tener buen cerca]]
+* [[tener mal cerca]]
+{{rel-abajo}}
+
+==== Véase también ====
+{{w}}
+
+{{clear}}
+
+==== Traducciones ====
+{{trad-arriba}}
+{{t+|de|nahe}}
+{{t+|fr|1|proche|,|2|près|}}
+{{t+|eo|1|proksima}}
+{{trad-centro}}
+{{t+|en|1,2|close|,|1,2|near|,|1|nearby|,|1,2|next<!--|,|1|adjacent|,|1|en|handy|,|1|local-->}}
+{{t+|it|1|vicino|,|1|accanto|}}
+{{t+|yua|1|huhump’ iitil|,|1|naats’}}
+{{trad-abajo}}
+
+=== Etimología 2 ===
+{{etimología2|De ''[[cercar]]''.}}
+
+==== {{sustantivo femenino|es}} ====
+{{inflect.es.sust.reg|cerca}} 
+
+;1: Muro o valla que se halla alrededor de un lugar.
+
+=== Forma flexiva ===
+
+==== Forma verbal ====
+;1: {{forma verbo|cercar|p=3s|t=presente|m=indicativo}}.
+;2: {{forma verbo|cercar|p=2s|t=imperativo|afirmativo=sí}}.
+
+== {{lengua|ca}} ==
+{{pron-graf|leng=ca}}
+
+=== Etimología ===
+{{etimología|leng=ca}}.
+
+=== {{sustantivo femenino|ca}} ===
+{{inflect.ca.sust|cerca|cerques}}
+
+;1: {{plm|búsqueda}}, [[investigación]].
+{{sinónimo|recerca|investigació|leng=ca}}

@@ -1,0 +1,15 @@
+== {{lengua|es}} ==
+{{pron-graf
+|división=íba - mos|dnota=<ref>{{referencia guion|tipo=huérfana}}</ref>
+|fone=ˈi.βa.mos
+|acentuación=esdrújula
+|longitud_silábica=3
+|número_letras=6
+}}
+
+=== Forma verbal ===
+
+;1: {{forma verbo|ir|p=1p|t=pret imp|m=indicativo|pronominal=s}}.
+
+== Referencias y notas ==
+<references />

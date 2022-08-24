@@ -1,0 +1,398 @@
+{{desambiguación|-el|EL|El|e.l.|el-|el.|Él|æl|él|èl|êl}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=el|h=él|audio=LL-Q1321 (spa)-Rodelar-él.wav}}
+
+=== Etimología 1 ===
+{{etimología|osp|el|el}}, y este del latín {{l+|la|ille|ille|glosa=aquel}}, del latín antiguo ''[[olle]]'', de la raíz protoindoeuropea ''[[h₂ol-no-]],'' de ''[[h₂el-]]'' ("más allá")''.''
+
+==== {{artículo determinado|es}} ====
+{{inflect.es.adj.ad-lib|el|[[los]]|[[la]]|[[las]]}}
+
+;1: {{impropia|{{plm|artículo determinado}} masculino singular}}.
+:*'''Usos''':
+::* [[anteceder|antecede]] a [[sustantivo]]s masculinos o transforma en sustantivo a la palabra o frase que anteceda.
+:::*'''Ejemplos''': ''el'' árbol, ''el'' sí, ''el'' ahora, ''el'' vivir, ''el'' qué dirán
+::* denota que el sustantivo al que antecede debe tomarse como información general, [[definido|definida]] o [[consabido|consabida]].
+:::*'''Ejemplos''':
+::::En la oración "recibí el mensaje", ''el'' denota un "mensaje" específico de cuya existencia ya sabía el hablante.
+::::En la oración "el ejercicio es saludable", ''el'' denota que el "ejercicio" se entiende en sentido general.
+
+=== Etimología 2 ===
+{{etimología|osp|ela}}.
+
+==== {{artículo determinado|es}} ====
+
+;2: Por razones de [[eufonía]]<ref>También hay una variación etimológica, ya que en latín no había artículos y, por preferencia fónica, el pronombre {{l+|la|illa}} se convirtió en el artículo "el" en estos casos</ref>, antecede a sustantivos femeninos en singular que comienzan con el [[fonema]] /ˈa/ ("a-" o "ha-" [[tónica]]s), en cuyo caso sustituye al artículo determinado femenino singular, '''{{l+|es|la|num=1}}'''. El sustantivo mismo continúa siendo femenino.
+:::*'''Ejemplos''': ''el'' área extensa (las áreas), ''el'' hacha vieja (las hachas), ''el'' agua limpia, ''el'' águila rápida, ''el'' arma biológica
+:::*'''Excepciones''': los nombres de letras (la hache, la a), antes del adjetivo (la única arma, la alta), antes de /a/ no tónica (la amiga)
+
+=== Véase también ===
+{{w}}
+* [[artículo]]
+* [[artículo determinado]] o [[artículo definido]]
+* [[Wikcionario:Categorías gramaticales]]
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|der}}
+{{t+|an|o}}
+{{t+|br|ar|,|an|,|al}}
+{{t+|ca|el}}
+{{t+|kw|an}}
+{{t+|eo|la}}
+{{t+|eu|-a}}
+{{t+|fr|le}}
+{{t+|gl|o|}}
+{{trad-centro}}
+{{t+|cy|y|,|yr|,|'r}}
+<!--*{{rm}}: {{trad|rm|el}} no verificado-->
+{{t+|el|ο|tr|o|,|τον|tr|ton|}}
+{{t+|en|the}}
+{{t+|ia|le}}
+{{t+|ga|an}}
+{{t+|it|il|,|lo|,|l'}}
+{{t+|nci|in}}
+{{t+|pt|o}}
+{{t+|ro|-ul|,|-l|,|-le}}
+{{trad-abajo}}
+
+== {{lengua|rup}} ==
+{{pron-graf|leng=rup
+|v=elu}}
+
+=== Etimología ===
+{{etimología|leng=rup|latín vulgar|*illus}}, y este del latín {{l+|la|ille|glosa=aquel}}. Compárese el rumano {{l+|ro|el}}.
+
+=== {{pronombre personal|rup}} ===
+
+;1: {{plm|él}}.
+{{sinónimo|leng=rup|nãs}}.
+
+== {{lengua|ast}} ==
+{{pron-graf|el|leng=ast}}
+
+=== Etimología ===
+{{etimología|leng=ast|roa-ole|el|el}}, y este del latín {{l+|la|ille|illum|glosa=aquel}}.
+
+=== {{artículo determinado|ast}} ===
+
+;1: {{plm}}.
+
+== {{lengua|osp}} ==
+{{pron-graf|leng=osp}}
+
+=== Etimología ===
+{{etimología|leng=osp|la|ille|alt=illum|aquel}}.
+
+=== {{artículo determinado|osp}} ===
+
+;1: {{plm}}.
+
+== {{lengua|ca}} ==
+{{pron-graf|el|leng=ca|fone2=əl
+|v=lo|vnota=noroccidental}}
+
+=== Etimología ===
+{{etimología|leng=ca|prefijo|e|lo}}.
+
+=== {{artículo determinado|ca}} ===
+
+;1: {{plm}}.
+{{sinónimo|leng=ca|es|nota=balear}}.
+
+=== {{pronombre personal|ca}} ===
+
+;2: {{plm|lo}}.
+
+=== Información adicional ===
+{{derivad|leng=ca|al|cal|del|pel}}.
+
+== {{lengua|dlm}} ==
+{{pron-graf|leng=dlm
+|v=lo}}
+
+=== Etimología ===
+{{etimología|leng=dlm|la|illum||la|illud|e=e}}.
+
+=== {{artículo determinado|dlm}} ===
+
+;1: {{plm}}.
+
+== {{lengua|fr}} ==
+{{pron-graf|leng=fr
+|v=iel|v2=ille}}
+
+=== Etimología ===
+{{etimología|leng=fr|}}.
+
+=== {{pronombre personal|fr}} ===
+
+;1: {{plm|ella}}, {{l|es|ello}} o {{l|es|él}}.
+{{hipónimo|leng=fr|elle|il}}.
+
+== {{lengua|fro}} ==
+{{pron-graf|leng=fro
+|v=enl|vnota=poco usado}}
+
+=== Contracción ===
+
+;1: {{contracción|en|le|preposición|artículo|leng=fro}}.
+{{ejemplo|m'est une anguisse '''el''' quer ferue, ki tut le cors me fet trembler|apellidos=Marie de France|título=Equitan|año=∼1250}}
+
+== {{lengua|roa-opt}} ==
+{{pron-graf|leng=roa-opt}}
+
+=== Etimología ===
+{{etimología|leng=roa-opt|fonética|ele}}.
+
+=== {{pronombre personal|roa-opt}} ===
+
+;1: {{variante|leng=roa-opt|ele}}.
+{{ejemplo|fugiu con '''el''' a Egipto. terra de Reẏ Faraon.|apellidos=Alfonso X|título=[http://www.pbm.com/~lindahl/cantigas/facsimiles/E/080.html Cantigas de Santa Maria]|año=XIII}}
+
+== {{lengua|gl}} ==
+{{pron-graf|ˈel|leng=gl}}
+
+=== Etimología ===
+{{etimología|leng=gl|roa-opt|ele|él}}, y este del latín {{l+|la|ille|glosa=aquel}}.
+
+=== {{pronombre personal|gl}} ===
+
+;1: {{plm|él}}.
+
+== {{lengua|ia}} ==
+{{pron-graf|ˈɛl|leng=ia}}
+
+=== Etimología ===
+{{etimología|leng=ia}}.
+
+=== {{pronombre personal|ia}} ===
+
+;1: {{plm|él}}.
+
+== {{lengua|ist}} ==
+{{pron-graf|leng=ist}}
+
+==== Etimología 1 ====
+{{etimología|leng=ist|la|ille|alt=illum|aquel}}.
+
+==== {{artículo determinado|ist}} ====
+
+;1: {{plm}}.
+
+==== Etimología 2 ====
+{{etimología|leng=ist|la|ille|aquel}}.
+
+==== {{pronombre personal|ist}} ====
+
+;2: {{plm|él}}.
+
+== {{lengua|it}} ==
+{{pron-graf|ˈel|leng=it}}
+
+=== {{pronombre personal|it}} ===
+
+;1: {{variante obsoleta|leng=it|ello}} (antes de consonantes).
+
+== {{lengua|lad}} ==
+{{pron-graf|leng=lad|fono=el
+|g=איל}}
+
+=== Etimología ===
+{{etimología|leng=lad|osp|el|el}}, y este del latín {{l+|la|ille|illum|glosa=aquel}} e {{l+|la|ille|glosa=aquel}}.
+
+=== {{artículo determinado|lad}} ===
+
+;1: {{plm}}.
+
+=== {{pronombre personal|lad}} ===
+
+;2: {{plm|él}}.
+
+== {{lengua|lld}} ==
+{{pron-graf|leng=lld}}
+
+==== Etimología 1 ====
+{{etimología|leng=lld|la|ille|alt=illum|aquel}}.
+
+==== {{pronombre personal|lld}} ====
+
+;1: {{plm|lo}}.
+
+==== Etimología 2 ====
+{{etimología|leng=lld|la|ille|aquel}}.
+
+==== {{pronombre personal|lld}} ====
+
+;1: {{plm|él}}.
+
+== {{lengua|la}} ==
+{{pron-graf|leng=la}}
+
+=== Etimología ===
+{{etimología|leng=la}}
+
+=== {{sustantivo|la}} ===
+
+;1 {{Tipografía|leng=la}}: {{plm|ele}}.
+
+== {{lengua|roa-ole}} ==
+{{pron-graf|leng=roa-ole}}
+
+=== Etimología ===
+{{etimología|leng=roa-ole|la|ille|alt=illum|aquel}}.
+
+=== {{artículo determinado|roa-ole}} ===
+
+;1: {{plm}}.
+
+== {{lengua|lmo}} ==
+
+=== Etimología 1 ===
+{{pron-graf|'ɛlː|leng=lmo}}
+{{etimología|leng=lmo|la|ille|alt=illum|aquel}}.
+
+==== {{artículo determinado|lmo}} ====
+;1: {{plm}}.
+
+=== Etimología 2 ===
+{{pron-graf|ˈe.el|leng=lmo}}
+{{etimología|leng=lmo|la|ille|aquel}}.
+
+==== {{pronombre personal|lmo}} ====
+;2: {{plm|él}}.
+
+=== Etimología 3 ===
+{{etimología|leng=lmo|}}.
+
+==== Forma verbal ====
+
+;3: {{f.v|leng=lmo|vess|3s|pres|ind|nopron=sí}}.
+
+== {{lengua|mwl}} ==
+{{pron-graf|leng=mwl}}
+
+=== Etimología ===
+{{etimología|leng=mwl|la|ille|aquel}}.
+
+=== {{pronombre personal|mwl}} ===
+
+;1: {{plm|él}}.
+
+== {{lengua|oc}} ==
+{{pron-graf|ˈel|leng=oc
+|v=eth|gnota=aranés}}
+
+=== Etimología ===
+{{etimología|leng=oc|pro|el|él}}.
+
+=== {{pronombre personal|oc}} ===
+
+;1: {{plm|él}}.
+
+;2: {{plm|ello}}.
+
+== {{lengua|pro}} ==
+{{pron-graf|leng=pro
+|v=ed
+|v2=elh
+|v3=ell}}
+
+==== Etimología 1 ====
+{{etimología|leng=pro|la|ille|alt=illum|aquel}}.
+
+==== {{artículo determinado|pro}} ====
+
+;1: {{plm}}.
+
+==== Etimología 2 ====
+{{etimología|leng=pro|la|ille|aquel}}.
+
+==== {{pronombre personal|pro}} ====
+
+;2: {{plm|él}}.
+
+== {{lengua|rm}} ==
+{{pron-graf|leng=rm}}
+
+=== Etimología ===
+{{etimología|leng=rm|la|ille|aquel}}.
+
+=== {{pronombre personal|rm}} ===
+
+;1: {{plm|él}}.
+
+== {{lengua|ro}} ==
+{{pron-graf|jel|leng=ro
+|g=ел|gnota=Moldavia|g2=elŭ|gnota2=obsoleta}}
+
+=== Etimología ===
+{{etimología|leng=ro|latín vulgar|*illus}}, y este del latín {{l+|la|ille|glosa=aquel}}.
+
+=== {{pronombre personal|ro}} ===
+
+;1: {{plm|él}}. ({{impropia|Tónico.}})
+{{sinónimo|leng=ro|dumnealui|nota=formal}}.
+
+=== Información adicional ===
+{{inflect.ro.pron.pers}}
+
+== {{lengua|sv}} ==
+{{pron-graf|leng=sv|fone=ˈeːl}}
+
+=== Etimología ===
+{{etimología2|leng=sv|Forma corta de ''[[elektricitet]]'', con el mismo significado.}}
+
+=== {{sustantivo|sv}} ===
+{{inflect.sv.sust.n.nocontable}}
+
+;1: {{plm|electricidad}}.
+
+== {{lengua|wa}} ==
+{{pron-graf|ɛl|leng=wa|fone2=il}}
+
+==== Etimología 1 ====
+{{etimología|leng=wa|la|ille|alt=illum|aquel}}.
+
+==== {{artículo determinado|wa}} ====
+
+;1: {{plm|la}}.
+
+;2: {{plm}}.
+
+==== {{pronombre personal|wa}} ====
+
+;3: {{plm|la}}.
+
+;4: {{plm|lo}}.
+
+==== Etimología 2 ====
+
+==== Contracción ====
+
+;4: {{contracción|leng=wa|e|li|preposición|pronombre}}: en el.
+
+== {{lengua|vec}} ==
+{{pron-graf|el|leng=vec
+|v=al}}
+
+==== Etimología 1 ====
+{{etimología|leng=vec|la|ille|alt=illum|aquel}}.
+
+==== {{artículo determinado|vec}} ====
+
+;1: {{plm}}.
+
+==== Etimología 2 ====
+{{etimología|leng=vec|la|ille|aquel}}.
+
+==== {{pronombre personal|pro}} ====
+
+;2: {{plm|él}}.
+{{ejemplo|El can '''el''' magna i òsi.}}
+
+== Referencias y notas ==
+<references />

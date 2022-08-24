@@ -1,0 +1,41 @@
+== {{lengua|es}} ==
+{{pron-graf
+|fone=ˈe.ʧo
+|ac=g
+|longitud_silábica=2
+|número_letras=5
+|h=echo}}
+
+=== Etimología ===
+{{etimología|leng=es}}.
+
+==={{sustantivo masculino|es}}===
+  {{inflect.es.sust.reg}}
+
+;1: Algo que es objetivamente cierto.
+
+==={{adjetivo|es}}===
+;2: Se dice de lo que ha alcanzado su nivel de maduración, o que ya está completo, terminado.
+
+=== Forma verbal ===
+{{inflect.es.adj.reg|hech}}
+
+;3: {{participio|hacer|irregular=s}}.
+
+==Locuciones==
+
+* {{l|es|hecho fosfatina}}
+* {{l|es|hecho jurídico}}
+* {{l|es|hecho un trapo}} / {{l|es|hecho un trapo de piso}} (Argentina)
+
+==Véase también==
+{{w}}
+<br clear="all">
+==Traducciones==
+{{trad-arriba}}
+{{t+|de|1|Tatsache|,|1|Fakt}}
+{{t+|fr|1,3|fait}}
+{{trad-centro}}
+{{t+|en|1|fact|,|2,3|done|}}
+{{t+|it|1,3|fatto}}
+{{trad-abajo}}

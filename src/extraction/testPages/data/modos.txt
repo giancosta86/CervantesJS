@@ -1,0 +1,18 @@
+== {{lengua|es}} ==
+{{pron-graf
+|división=mo - dos
+|fone=ˈmo.ðos
+|acentuación=grave
+|longitud_silábica=2
+|número_letras=5
+}}
+
+=== Forma sustantiva masculina ===
+;1: {{forma sustantivo plural|modo}}.
+
+=== Información adicional ===
+{{anagrama|domos}}.
+{{rima|o.ðos}}.
+
+== Referencias y notas ==
+<references />

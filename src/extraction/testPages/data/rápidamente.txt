@@ -1,0 +1,43 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˌra.pi.ðaˈmen.te}}
+
+=== Etimología ===
+{{etimología|sufijo|rápido|mente}}
+
+=== {{adverbio de modo|es}} ===
+;1: Que se hace [[rápido]], que se hace en poco [[tiempo]].
+
+lñlk´´kkl we90v wio4tv9'w85 90er 5pgtgweoi`v 44it r3q49¡q r rigi i5ierrirp '0t'0w gprpppqot triqp4ttup543ug4ujg43 4pigp5uup3qptu 5p5 upu qpuqpt
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|af|1|gou|,|vinnig|,|in alleryl}}
+{{t+|sq|1|shpejt|,|me vrap}}
+{{t+|de|1|flugs|, |geschwind|, |schnell|, |rasch|}}
+{{t+|az|1|tez}}
+{{t+|bg|1|бързо|,|скоро|,|набързо}}
+{{t+|da|1|hurtigt}}
+{{t+|eo|1|supraĵe|,|rapide|,|prompte}}
+{{t+|fo|1|skjótt}}
+{{t+|fr|1|rapidement}}
+{{t+|gl|1|rapidamente}}
+{{t+|el|1|γρήγορα}}
+{{t+|en|1|fast|,|quickly|,|swiftly|,|expeditiously|,|promptly|,|rapidly|,|apace}}
+{{trad-centro}}
+{{t+|ang|1|ofstlice}}
+{{t+|it|1|presto}}
+{{t+|yua|1|seeba’an}}
+{{t+|no|1|kvikk}}
+{{t+|nl|1|oppervlakkig|,|vluchtig|,|gauw|,|hard|,|in allerijl|,|schielijk|,|snel|,|,|vlug}}
+{{t+|pap|1|rápidamente}}
+{{t+|pl|1|powierzchownie|,|szybko}}
+{{t+|pt|1|superficialmente|,|depressa}}
+{{t+|ro|1|iute|,|repede}}
+{{t+|ru|1|быстро|,|скоро}}
+{{t+|zu|1|ngokushesha}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

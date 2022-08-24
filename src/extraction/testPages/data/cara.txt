@@ -1,0 +1,255 @@
+{{desambiguación|Cara|c'ára|čára|căra|carā|cará|cà rá}}
+== {{lengua|es}} ==
+{{pron-graf|'ka.ɾa|audio=Es-am-lat-cara.ogg}}
+
+=== Etimología ===
+{{etimología|la|cara|leng=es}}.
+
+{{picdic
+|imagen= Face of SpooSpa.jpg
+|width=230
+|height=310
+|labels=
+{{picdiclabel|color=black|fontsize=12|posx=110|posy=35|link=frente|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=110|posy=95|link=entrecejo|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx= 45|posy= 45|link=ceja|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=45|posy=95|link=pestañas|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx= 45|posy=145|link=ojo|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=100|posy=150|link=nariz|lang=en}}
+{{picdiclabel|color=black|fontsize=12|posx=60|posy=195|link=fosa nasal|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=190|posy=190|link=mejilla|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=140|posy=240|link=boca|align=left|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=115|posy=270|link=labio|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=105|posy=220|link=filtrum|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=190|posy=275|link=quijada|lang=es}}
+{{picdiclabel|color=black|fontsize=12|posx=100|posy=295|link=mentón|lang=es}}
+|detail1=
+Partes de la cara
+}}
+
+==== {{sustantivo femenino|es}} ====
+[[File:Cuboctahedron by Cutting Rhombic Dodecahedron.svg|thumb|[2] en rojo, las caras triangulares]]
+[[File:1812 JoseBonaparte 80reales.jpg|thumb|[8] izquierda]]
+{{inflect.es.sust.reg}}
+
+;1 {{Anatomía}}: En el hombre y algunos animales, parte frontal de la [[cabeza]], donde se encuentran los ojos, nariz y boca.
+{{sinónimo|rostro|jeta|faz|haz}}.
+{{ejemplo|Don Diego tiene los ojos // hinchados, la '''cara''' pálida, // la calva testa sin toca // y la cintura sin daga.|
+apellidos=Zorrilla|nombre=José|título=La leyenda del Cid|año=1882|capítulo=cap. III|URLcapítulo=https://es.wikisource.org/wiki/La_leyenda_del_Cid:_17|URL=https://es.wikisource.org/wiki/La_leyenda_del_Cid}}
+;2: {{plm|superficie}} exterior de un [[poliedro]].
+{{sinónimo|faceta|faz}}
+{{ejemplo|Un poliedro es un cuerpo tridimensional limitado por regiones poligonales, denominadas '''caras'''. Los lados de cada '''cara''' se llaman aristas y sus vértices reciben el nombre de vértices del poliedro.|apellidos=Estrada García|nombre=William Fernando|título=Espiral 9|año=2005|editorial=Editorial Norma|isbn=9580481989}}
+;3: En general, cada una de las superficies de un objeto [[sólido]].
+{{sinónimo|faz|haz}}
+;4: {{plm|gesto}} o [[expresión]] que adopta el rostro para indicar el [[ánimo]].
+{{ejemplo|Usted, don José, no ponga esa '''cara''' triste ni haga pucheros: su hija está en mi casa como en la gloria.|apellidos=Pérez Galdós|nombre=Benito|año=1911|título=De Cartago a Sagunto|URL=https://es.wikisource.org/wiki/De_Cartago_a_Sagunto|URLcapítulo=https://es.wikisource.org/wiki/De_Cartago_a_Sagunto_:_27|capítulo=cap. 27}}
+;5: Cada una de las [[fachada]]s de un [[edificio]].
+;6: Aspecto que en general ofrece una situación o asunto.
+{{relacionado|cariz}}
+;7: {{plm|descaro}} en el comportamiento o actitud.
+{{sinónimo|caradura|desfachatez|morro|nota3=España|jeta}}
+{{ejemplo|En la letra menuda de la historia de la retransmisión son varios los que han descompuesto la figura o han echado mucha '''cara''' al asunto.|apellidos=García Candau|nombre=Julián|año=1996|título=Madrid-Barça. Historia de un desamor}}
+;8: {{plm|haz}} principal de una moneda, que lleva muchas veces la efigie de una figura histórica o alegórica.
+{{sinónimo|faz|anverso}}
+{{antónimo|cruz|reverso}}
+{{ejemplo|Se había arrojado la moneda al juego de '''cara''' o cruz y había salido '''cara'''.|
+apellidos=Pérez Galdós|nombre=Benito|título=Los Apostólicos|año=1875|capítulo=cap. 7|URLcapítulo=https://es.wikisource.org/wiki/Los_Apost%C3%B3licos_:_7|URL=https://es.wikisource.org/wiki/Los_Apost%C3%B3licos}}
+;9 {{Geometría}}: {{plm|lado}} de un [[polígono]].
+
+==== Locuciones ====
+{{rel-arriba|Locuciones con «cara»}}
+* [[a cara descubierta]]: sinceramente, sin disimulo
+* [[cara de cañón]]: expresión evidente de disgusto o enojo
+* [[cara de chicha fresca]]
+* [[cara de palo]]
+* [[cara de perro]]: la de expresión adusta y hosca
+* [[cara de piedra]]: la llena de cicatrices producto de un caso grave de acné
+* [[cara de pocos amigos]]: la de expresión adusta y hosca
+* [[cara de raja]]
+* [[cara de tabla]]: cinismo
+* [[cara de tragedia]]: aflicción o pesadumbre muy evidente
+* [[cara dura]]: desfachatez, poca vergüenza ([[caradura]])
+* [[cara pálida]]
+* [[cara o cruz]] o [[cara o sello]]: que se decide por el lanzamiento de una moneda, o por extensión por cualquier medio azaroso
+* [[cara a cara]]: personalmente y en contacto directo
+* [[cariacontecido]] (cara de acontecido)
+* [[cara abajo]]: boca abajo, tumbado con la cara hacia abajo
+* [[cara de póquer]]: rostro inexpresivo
+{{rel-centro}}
+* [[cruzar la cara]] (a alguien) : abofetear
+* [[dar en cara]]
+* [[dar la cara]] : reponder una persona de sus actos y afrontar las consequencias que de ellos se puedan derivar 
+* [[dar la cara por alguien]] : salir en la defensa de alguien, responder por él
+* [[de cara]]: de frente, por delante
+* [[de cara a]] : en relación con, pensando en
+* [[echar en cara]]
+* [[hacer cara a algo]]: enfrentarse a algo
+* [[plantar cara]]: hacer frente a algo o alguien
+* [[poner cara]]s
+* [[sacar en cara]]
+* [[tirar en cara]]
+{{rel-abajo}}
+
+=== Refranes ===
+* {{l|es|la necesidad tiene cara de perro}}
+
+==== Información adicional ====
+* '''Derivados:''' [[encarar]], [[careta]], [[caracho]]
+:*'''Anagrama:''' [[arca]]
+* '''Pares mínimos:''' [[ara]], [[mara]], [[rara]], [[sara]], [[tara]], [[vara]], [[caro]], [[caca]], [[cada]], [[caja]], [[cala]], [[cama]], [[cana]], [[caña]], [[capa]], [[casa]], [[cata]], [[cava]], [[caza]], [[cura]]
+* '''Morfología:''' ''lexema:'' car ''morfema:'' –a
+* '''Numerable: ''' sí
+* '''Animación: ''' ser animado 
+* '''Metadominio:''' abstracto/físico
+
+==== Véase también ====
+{{w}}
+
+{{clear}}
+
+==== Traducciones ====
+{{trad-arriba}}
+{{t+|de|?|Gesicht|n}}
+{{t+|ar|?|وجه}}
+{{t+|ast|cara}}
+{{t+|br|1|bizaj|mf|,|dremm|f|,|eneb|m|,|fas|mf}}
+{{t+|ca|?|cara|f}}
+{{t+|eo|?|vizaĝo}}
+{{t+|eu|?|aurpegi}}
+{{t+|fr|1, 2, 3, 8|face|,|visage}}
+{{t+|got|1|𐌰𐌽𐌳𐌰𐌿𐌲𐌹|tr=andaugi|n}}
+{{t+|en|?|face}}
+{{t+|ga|1,2|éadan|,|1,5,8|aghaidh|,|1,4|gnúis|,|7|éadan dána|,|aghaidh-dhána}}
+{{trad-centro}}
+{{t+|it|?|faccia|f}}
+{{t+|mt|1|wiċċ|m}}
+{{t+|yua|?|ich}}
+{{t+|nl|?|gezicht|n}}
+{{t+|pl|?|twarz|f}}
+{{t+|pt|?|face|f|,|rosto|m}}
+{{t+|ine|*h₂ánts}}
+{{t+|rap|?|aringo}} <ref>[http://www.lenguasindigenas.cl/webhosting/lenguasindigenas.cl/fileadmin/Carpeta_documentos/publicacionesRapaNui24/Diccionario_Etimol%F2gico_Rapanui_Espa%F1ol.pdf Comisión para la Estructuración de la Lengua Rapanui. 2000, Diccionario Etimológico Rapanui-Español, Valparaíso: Universidad de Playa Ancha. ISBN 956-7906-30-0]</ref>
+{{t+|tl|mukha}}
+{{t+|crh|bet}}, [[şıray]], [[sima]]
+{{trad-abajo}}
+
+=== Forma flexiva ===
+
+==== Forma adjetiva ====
+;1: {{forma adjetivo|leng=es|caro|femenino|singular}}
+
+== {{lengua|ast}} ==
+{{pron-graf|leng=ast|ˈka.ɾa}}
+
+=== Etimología ===
+{{etimología|la|cara|leng=ast}}.
+
+=== {{sustantivo femenino|ast}} ===
+{{inflect.ast.sust|car|a}}
+
+;1 {{Anatomía|leng=ast}}: {{plm}}.
+{{sinónimo|leng=ast|rostru}}.
+
+;2: Cara, [[gesto]], [[expresión]].
+
+;3: Cara, [[lado]], [[fachada]].
+
+== {{lengua|ca}} ==
+{{pron-graf|leng=ca|}}
+
+=== Etimología ===
+{{etimología|leng=ca|la|cara}}.
+
+==== {{sustantivo femenino|ca}} ====
+{{inflect.ca.sust.reg|leng=ca|car|a}}
+
+;1 {{Anatomía|Geometría|leng=ca}}: {{ucf}}.
+
+=== Forma flexiva ===
+
+==== Forma adjetiva ====
+;1: {{forma adjetivo|leng=ca|car|femenino|singular}}
+
+== {{lengua|gl}} ==
+{{pron-graf|leng=gl}}
+
+=== Etimología ===
+{{etimología|la|cara|leng=gl}}.
+
+==={{sustantivo femenino|gl}}===
+{{inflect.gl.sust.reg|leng=gl}}
+
+;1 {{Anatomía|Geometría|leng=gl}}: {{plm}}.
+{{sinónimos|leng=gl|face}}
+
+== {{lengua|ga}} ==
+{{pron-graf|leng=ga}}
+
+=== Etimología ===
+{{etimología|sga|cara|leng=ga}}.
+
+==={{sustantivo masculino|ga}}===
+{{inflect.ga.sust|cara|{{l|ga|cairde}}|a chara|a chairde|{{l|ga|carad}}|{{l|ga|cairde}}|cara|{{l|ga|cairde}} }}
+
+;1: {{plm|amigo}}.
+{{relacionado|leng=ga|cairdeach|cairdeas|cairdiúil}}
+{{antónimo|leng=ga|eascara|namhaid}}
+
+== {{lengua|sga}} ==
+{{pron-graf|leng=sga}}
+
+=== Etimología ===
+{{etimología|leng=sga}}
+
+==={{sustantivo masculino|sga}}===
+
+;1: {{plm|amigo}}.
+
+;2: {{plm|relación}}.
+
+== {{lengua|la}} ==
+{{pron.la|ˈkaː.ra}}
+
+=== Forma adjetiva ===
+;1: {{forma adjetivo|leng=la|carus|alt=cārus|nominativo|singular|femenino}}.
+
+;2: {{forma adjetivo|leng=la|carus|alt=cārus|nominativo|plural|neutro}}.
+
+;3: {{forma adjetivo|leng=la|carus|alt=cārus|vocativo|singular|femenino}}.
+
+;4: {{forma adjetivo|leng=la|carus|alt=cārus|vocativo|plural|neutro}}.
+
+;5: {{forma adjetivo|leng=la|carus|alt=cārus|acusativo|plural|neutro}}.
+
+{{pron.la|ˈkaː.raː}}
+=== Forma adjetiva ===
+;1: {{forma adjetivo|leng=la|carus|alt=cārus|ablativo|singular|femenino}}.
+
+== {{lengua|oc}} ==
+{{pron-graf|leng=oc}}
+
+=== Etimología ===
+{{etimología|la|cara|leng=oc}}.
+
+==={{sustantivo femenino|oc}}===
+
+;1 {{Anatomía|Geometría|leng=oc}}: {{ucf}}.
+{{sinónimos|leng=oc|visatge}}
+
+== {{lengua|pt}} ==
+{{pron-graf|leng=pt|ˈka.ɾa|ls=2|nl=4}}
+
+=== Etimología ===
+{{etimología|la|cara|leng=pt}}.
+
+==={{sustantivo femenino|pt}}===
+{{inflect.pt.sust.reg}}
+
+;1 {{anatomía|gometría|leng=pt}}: {{plm}}.
+{{sinónimos|leng=pt|rosto}}.
+
+=== Locuciones ===
+* {{l|pt|custar um olho da cara}}
+
+== Referencias y notas ==
+<references />

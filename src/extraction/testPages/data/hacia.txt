@@ -1,0 +1,46 @@
+{{desambiguación|hacía}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈa.sja|fone2=ˈa.θja|h=Asia}}
+
+=== Etimología ===
+{{etimología2|del español antiguo ''faze a'', [[cara]] a}}.
+
+=== {{preposición|es}} ===
+;1: Indica la dirección del [[movimiento]] con relación a su destino aparente o real.
+{{ejemplos}}
+::El avión despega y se eleva ''hacia'' el cielo.
+::El avión vuela desde Santiago, vía Bogotá, ''hacia'' Nueva york.
+;2: Indica la [[orientación]].
+{{ejemplos}} En la ventana que está ''hacia'' el norte.
+;3: Indica proximidad.
+{{sinónimos|cerca de|alrededor de}}.
+{{ejemplos}}
+::En Chile se toman [[once]]s ''hacia'' las cinco de la tarde.
+::Hicimos un alto en nuestro viaje, ''hacia'' el kilómetro 50 de la Norte-Sur.
+;4: Con verbos que expresan actitudes, sentimientos o emociones, indica ante qué, quién o quienes se dirigen estos.
+{{ejemplo|Experimentar aversión ''hacia'' los dentistas}}
+
+=== Véase también ===
+{{w}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ain|エン|エㇴ|ウン|ウㇴ|エネ|エコタ|オルン|オルㇴ}}
+{{t+|de|nach}}
+{{t+|eo|al}}
+{{t+|fr|vers}}
+{{t+|id|1|menuju|,|hingga||2|ke|3|sekitar}}
+{{trad-centro}}
+{{t+|en|1,2|to}}
+{{t+|ga|i leith}}
+{{t+|it|1-4|verso}}
+{{t+|ms|1|menuju|,|منوجو|,|hingga|,|هيڠݢ|2|ke|3|sekitar|,|سکيتر}}
+{{t+|nci|ihuic}}
+{{t+|pt|até}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

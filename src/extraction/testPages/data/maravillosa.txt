@@ -1,0 +1,8 @@
+== {{lengua|es}} ==
+{{pron-graf}}
+
+=== Forma adjetiva ===
+;1: {{forma adjetivo|leng=es|maravilloso|género=femenino|número=}}.
+
+== Referencias y notas ==
+<references />

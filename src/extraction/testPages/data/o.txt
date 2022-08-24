@@ -1,0 +1,483 @@
+{{desambiguación|O|ó|ö|ő|õ|0|О|о|ο|ό|Ο|Ό|ὅ|၀|໐|-o}}
+=={{lengua|es}}==
+{{pron-graf|fone=o|audio=Letter o es es.flac}}
+===Etimología 1===
+{{etimología|la|aut}}
+
+===={{letra|es}}====
+[[Categoría:ES:Alfabeto]]
+;1: {{impropia|Decimosexta [[letra]] del [[alfabeto]] español y cuarta [[vocal]]}}. Su nombre es o{{-sub|2}}.
+{{uso|minúscula}}.
+{{relacionado|O|nota=mayúscula}}.
+{{relacionado|tit=Abecedario español|a|b|c|d|e|f|g|h|i|j|k|l|m|n|ñ|o|p|q|r|s|t|u|v|w|x|y|z}}.
+
+===={{sustantivo femenino|es}}====
+{{inflect.es.sust.reg-cons}}
+
+;2 {{Lingüística}}: Nombre de la letra o{{-sub|1}}.
+
+====Véase también====
+{{w}}
+
+====Otros alfabetos====
+{{trad-arriba}}
+{{t+|sl|o}}
+{{t+|fr|o}}
+{{trad-centro}}
+{{t+|en|o}}
+{{t+|it|o}}
+{{trad-abajo}}
+
+===Etimología 2===
+{{etimología|leng=es|osp|o}}, y este del latín {{l+|la|aut|glosa=o}}.
+{{ampliable}}
+
+===={{conjunción|es}}====
+
+;1: Conjunción disyuntiva que denota diferencia separación o alternativa entre dos o más personas o cosas.
+{{uso|Usado entre números se marca con tilde ({{l+|es|ó}}) para distinguirlo del cero|nota=ej. ''1 ó 2''|ante una palabra que comienza por ''o-'', ''ho-'' se utiliza {{l+|es|u}} en su lugar|nota2=ej: ''uno u otro''}}.
+{{sinónimos|u}}.
+
+;2 {{lógica}}: [[operador|Operador]] lógico que devuelve ''verdadero'' siempre y cuando uno de sus [[operando]]s sea ''verdadero''. Se representa habitualmente por el símbolo <math>\lor</math>.
+
+==== Locuciones ====
+* [[o exclusivo]]
+* [[o inclusivo]]
+
+====Véase también====
+{{wikipedia|Disyunción lógica}}
+* {{l|es|ni}}
+* {{l|es|y}}
+* {{l|es|bien}}
+* {{l|es|ora}}
+
+====Traducciones====
+{{trad-arriba}}
+{{t+|de|1,2|oder}}
+{{t+|an|1,2|o}}
+{{t+|ast|1,2|o}}
+{{t+|bg|1|или|tr|ili}}
+{{t+|osp|1,2|o}}
+{{t+|ca|1,2|o}}
+{{t+|hr|1|ili}}
+{{t+|da|1,2|eller}}
+{{t+|eo|1|aŭ}}
+{{t+|eu|1|edo}}
+{{t+|ext|1,2|o}}
+{{t+|fr|1,2|ou|}}
+{{t+|fro|1,2|ou}}
+{{t+|frm|1,2|ou}}
+{{t+|fax|1,2|o}}
+{{t+|roa-opt|1,2|ou}}
+{{t+|gl|1,2|ou}}
+{{t+|got|1|𐌰𐌹𐌸𐌸𐌰𐌿|tr|[[aiþþau]]}}
+{{t+|el|1|ή|tr|í}}
+{{t+|roa-grn|1,2|ou}}
+{{t+|en|1,2|or}}
+{{trad-centro}}
+{{t+|hu|1|vagy}}
+{{t+|ia|1|o}}
+{{t+|it|1,2|o}}
+{{t+|roa-oit|1,2|o}}
+{{t+|lad|1,2|o}}
+{{t+|lld|1,2|o}}
+{{t+|la|1|aut|,|1|-ve}}
+{{t+|nap|1,2|o}}
+{{t+|nl|1,2|of}}
+{{t+|no|1,2|eller}}
+{{t+|oc|1,2|o}}
+{{t+|pl|1|lub|,|albo}}
+{{t+|pt|1,2|ou}}
+{{t+|ro|1,2|sau|ori|au}}
+{{t+|ru|1|или|tr|ili}}
+{{t+|sa|1,2|वा}}
+{{t+|scn|1,2|o}}
+{{t+|sv|1,2|eller}}
+{{t+|tl|1,2|o}}
+{{t+|vec|1,2|o}}
+{{t+|yo|1|àbí|,|1|tàbí}}
+{{trad-abajo}}
+
+=={{lengua|an}}==
+
+{{pronunciación|leng=an|}}
+{{etimología|leng=an|la|ille|alt=illum}}.
+
+=== {{artículo|an}} ===
+
+;1: {{ucf|el}}.
+
+=={{lengua|ast}}==
+
+{{pronunciación|leng=ast|}}
+{{etimología|leng=ast|la|aut|glosa=o}}.
+
+=== {{conjunción|ast}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|br}}==
+{{pron-graf|leng=br|fono=o}}
+
+=== Etimología ===
+{{etimología|leng=br}}
+
+==={{adjetivo posesivo|br}} ===
+;1: {{plm|su}}, [[sus]]
+{{uso|leng=br|Provoca mutación aspirada}}
+:* ''O [[c'halon]] ; O [[fenn]] ; O [[zad]].''
+:: Su corazón ; Su cabeza ; Su padre.
+:* ''O [[c'hizhier]] ; O [[fistolennoù]] ; O [[zorfedoù]].''
+:: Sus gatos ; Sus pistolas ; Sus crímenes.
+
+=={{lengua|osp}}==
+
+{{pronunciación|leng=osp|}}
+{{etimología|leng=osp|la|aut|glosa=o}}.
+
+=== {{conjunción|osp}} ===
+
+;1: {{ucf}}, [[u]].
+
+{{derivados|des=x}}
+{{desc|es|o|u}}
+{{centro}}
+{{desc|lad|o}}
+{{abajo}}
+
+=={{lengua|ca}}==
+
+{{pronunciación|leng=ca|}}
+{{homófono|leng=ca|oh}}.
+{{etimología|leng=ca|la|aut|glosa=o}}.
+
+=== {{conjunción|ca}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|sl}}==
+
+{{pronunciación|leng=sl}}
+{{etimología|leng=sl}}
+
+==={{letra|sl}}===
+[[Categoría:SL:Alfabeto]]
+;1: {{impropia|Decimosexta letra del abecedario esloveno y cuarta vocal}}.
+{{uso|leng=sl|minúscula}}.
+{{relacionado|leng=sl|O|nota=mayúscula}}.
+{{relacionado|tit=Abecedario esloveno|leng=sl|a|b|c|č|d|e|f|g|h|i|j|k|l|m|n|o|p|r|s|š|t|u|v|z|ž}}.
+
+===Véase también===
+{{w|leng=sl}}
+
+=={{lengua|ext}}==
+
+{{pronunciación|leng=ext|}}
+{{etimología|leng=ext|la|aut|glosa=o}}.
+
+=== {{conjunción|ext}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|fax}}==
+===Etimología===
+{{pronunciación|leng=fax|}}
+{{etimología|leng=fax|roa-opt|o}}, y este del latín {{l+|la|ille|illum}}.
+
+===={{artículo|fax}}====
+
+;1: {{ucf|el}}.
+
+===Etimología 2===
+
+{{etimología|leng=fax|roa-opt|ou}}, y este del latín {{l+|la|aut|glosa=o}}.
+
+==== {{conjunción|fax}} ====
+
+;2: {{ucf}}, [[u]].
+
+=={{lengua|fr }}==
+
+{{pronunciación|leng=fr}}
+{{etimología|leng=fr}}
+
+==={{letra|fr}}===
+[[Categoría:FR:Alfabeto]]
+;1: {{impropia|Decimoquinta letra y cuarta vocal del alfabeto francés}}.
+{{uso|leng=fr|minúscula}}.
+{{relacionado|leng=fr|O|nota=mayúscula}}.
+{{relacionado|tit=Abecedario francés|leng=fr|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z}}.
+
+===Véase también===
+{{w|leng=fr}}
+
+=={{lengua|roa-opt}}==
+
+{{pronunciación|leng=roa-opt|}}
+{{etimología|leng=roa-opt|la|ille|alt=illum}}.
+
+=== {{artículo|roa-opt}} ===
+
+;1: {{ucf|el}}.
+
+=={{lengua|cy}}==
+{{pronunciación|leng=cy}}
+{{etimología|leng=cy}}
+
+==={{pronombre|cy}} personal===
+;1: {{ucf|él}}, [[lo]], [[le]].
+{{sinónimo|leng=cy|fe|ef|fo|e}}.
+
+=={{lengua|gl}}==
+
+{{pronunciación|leng=gl|}}
+:*{{audio|Gl-o.ogg|'''Audio'''}}
+{{etimología|leng=gl|roa-opt|o}}, y este del latín {{l+|la|ille|illum}}.
+
+=== {{artículo|gl}} ===
+
+;1: {{ucf|el}}.
+
+=== {{pronombre|gl}} ===
+
+;2: ''Forma del acusativo de pronombre masculino para la tercera persona del singular'': [[lo]].
+
+== {{lengua|gn}} ==
+{{pron-graf|leng=gn |fone=ˈo }}
+
+=== Etimología ===
+{{etimología2|leng=gn| De la letra {{l|es}} del abecedario español}}
+
+=== {{letra|gn}} ===
+[[Categoría:GN:Alfabeto]]
+;1: {{impropia|Vigésimo primera [[letra]] y cuarta [[vocal]] oral del [[achegety]] o [[alfabeto]] guaraní}}.
+{{uso|leng=gn|minúscula}}.
+{{relacionado|leng=gn|O|nota=mayúscula}}.
+{{relacionado|tit=Achegety o alfabeto guaraní|leng=gn|a|ã|ch|e|ẽ|g|g̃|h|i|ĩ|j|k|l|m|mb|n|nd|ng|nt|ñ|o|õ|p|r|rr|s|t|u|ũ|v|y|ỹ|'}}.
+
+==={{sustantivo|gn}}===
+;2: {{plm|nombre}} de la letra o.
+
+===Véase también===
+{{w|leng=gn}}
+
+=={{lengua|he}}==
+:*'''Grafías alternativas:''' Hebreo: [[או]]
+
+==={{conjunción|he}}===
+;1:[[o|O]].
+
+=={{lengua|en}}==
+
+{{pron-graf|leng=en|
+pron=Reino Unido|fono=əʊ|audio=en-uk-o.ogg|
+2pron=EE. UU.|2fono=oʊ|2audio=en-us-o.ogg|
+homófono=oh|h2=owe}}
+{{etimología|leng=en}}
+
+==={{letra|en}}===
+[[Categoría:EN:Alfabeto]]
+;1: {{impropia|Decimoquinta letra y cuarta vocal del abecedario inglés}}. Se llama {{l+|en|o}}.
+{{uso|leng=en|minúscula}}.
+{{relacionado|leng=en|O|nota=mayúscula}}.
+{{relacionado|tit=Abecedario inglés|leng=en|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z}}.
+
+===Véase también===
+{{w|leng=en}}
+
+=={{lengua|it}}==
+
+===Etimología===
+{{pronunciación|leng=it}}
+{{etimología|leng=it}}
+
+===={{letra|it}}====
+[[Categoría:IT:Alfabeto]]
+;1: {{impropia|Decimotercera letra del alfabeto italiano y cuarta vocal}}. Se llama {{l+|it|o}}.
+{{uso|leng=it|minúscula}}.
+{{relacionado|leng=it|O|nota=mayúscula}}.
+{{relacionado|tit=Abecedario italiano|leng=it|a|b|c|d|e|f|g|h|i|l|m|n|o|p|q|r|s|t|u|v|z|nota21=las letras ''j'', ''k'', ''w'', ''x'' e ''y'' aparecen pero son consideradas letras extranjeras, ya que se usan sobre todo para palabras provenientes de otros idiomas}}.
+
+====Véase también====
+{{w|leng=it}}
+
+===Etimología 2===
+{{pronunciación|leng=it|[ o ]}}
+{{etimología|leng=it|roa-oit|o}}, y este del latín {{l+|la|aut|glosa=o}}.
+
+==== {{conjunción|it}} ====
+
+;1: {{ucf}}, [[u]].
+
+===Etimología 3===
+
+==== {{interjección|it}} ====
+
+;2: ¡{{ucf|ay}}!.
+
+=={{lengua|roa-oit}}==
+
+{{pronunciación|leng=roa-oit|}}
+{{etimología|leng=roa-oit|la|aut|glosa=o}}.
+
+=== {{conjunción|roa-oit}} ===
+
+;1: {{ucf}}, [[u]].
+
+{{derivados|des=x}}
+{{centro}}
+{{desc|it|o}}
+{{abajo}}
+
+=={{lengua|lad}}==
+
+{{pronunciación|leng=lad|}}
+{{etimología|leng=lad|osp|o}}, y este del latín {{l+|la|aut|glosa=o}}.
+{{grafía alternativa|leng=lad|או}}.
+
+=== {{conjunción|lad}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|lld}}==
+
+{{pronunciación|leng=lld|}}
+{{etimología|leng=lld|la|aut|glosa=o}}.
+
+=== {{conjunción|lld}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|nap}}==
+
+{{pronunciación|leng=nap|}}
+{{etimología|leng=nap|la|aut|glosa=o}}.
+
+=== {{conjunción|nap}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|oc }}==
+
+{{pronunciación|leng=oc|[ u ]}}
+{{etimología|leng=oc|la|aut|glosa=o}}.
+
+=== {{conjunción|oc}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|pt}}==
+
+{{etimología|leng=oc|}}
+
+=== {{pronombre|oc}} ===
+
+;2: ''Forma del acusativo de pronombre masculino para la tercera persona del singular'': [[lo]].
+{{variantes|leng=oc|ac|ba}}.
+
+=={{lengua|pt }}==
+
+{{pronunciación|leng=pt|[ u ] o [ ʊ ]}}
+{{etimología|leng=pt|roa-opt|o}}, y este del latín {{l+|la|ille|illum}}.
+
+=== {{artículo|pt}} ===
+{{inflect.pt.adj|link=si|o|os|a|as}}
+
+;1: {{ucf|el}}.
+{{uso|El artículo se contrae ante las preposiciones {{l+|pt|a}} ({{l+|pt|ao}}), {{l+|pt|de}} ({{l+|pt|do}}), {{l+|pt|em}} ({{l+|pt|no}}), {{l+|pt|por}} ({{l+|pt|pelo}}), y en el registro coloquial {{l+|pt|com}} ({{l+|pt|cor}}) y {{l+|pt|para}} ({{l+|pt|pro}}).}}
+{{relacionado|leng=pt|um}}
+{{ejemplo|Dir-se-hia que, vassallo e tributario desse rei das águas, '''o''' pequeno rio, altivo e sobranceiro contra os rochedos, curva-se humildemente aos pés do seu suzerano.|
+apellidos=do Alencar|
+nombre=José|
+título=O Guaraní|
+año=1857|
+capítulo=Primeira Parte, Capítulo I: Cenário|
+URLcapítulo=https://pt.wikisource.org/wiki/O_Guarani/I/I
+}}
+
+=== {{pronombre|pt}} ===
+
+;2: ''Forma del acusativo de pronombre masculino para la tercera persona del singular'': [[lo]].
+
+=={{lengua|ro }}==
+
+===Etimología===
+{{pronunciación|leng=ro|[ o ]}}
+{{etimología|leng=ro|la|unam}}.
+
+===={{artículo|ro}} ====
+
+;1: {{ucf|una}}.
+{{uso|leng=ro|nominativo|acusativo}}.
+
+===Etimología 2===
+==== Forma verbal ====
+
+;2: {{f.v|leng=ro|vrea|3s|pres|ind|nopron=x}}.
+
+==== {{interjección|ro}} ====
+
+===Etimología 3===
+
+{{etimología|leng=ro|}}
+
+;3: {{ucf|ay}}.
+
+===Etimología 4===
+
+{{etimología|leng=ro|la|ille|alt=illam}}.
+
+==== {{pronombre|ro}} ====
+
+;4: ''Forma del acusativo átono de pronombre femenino para la tercera persona del singular'': [[la]].
+
+=={{lengua|scn}}==
+
+{{pronunciación|leng=scn|[ 'ɔ ]}}
+{{etimología|leng=scn|la|aut|glosa=o}}.
+
+=== {{conjunción|scn}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|tl}}==
+
+{{pronunciación|leng=tl|[ ɔː ]}}
+{{etimología|leng=tl|}}
+
+=== {{conjunción|tl}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua|vec }}==
+
+{{pronunciación|leng=vec|[ o ]}}
+{{etimología|leng=vec|la|aut|glosa=o}}.
+
+=== {{conjunción|vec}} ===
+
+;1: {{ucf}}, [[u]].
+
+=={{lengua| yag}}==
+{{pron-graf|leng=yag|fone=o}}
+
+=== Etimología ===
+{{etimología|leng=yag|es|o}}
+
+===={{conjunción|yag}}====
+;1: {{plm|o}}, [[u]].<ref>{{cita publicación|apellido= Golbert de Goodbar|nombre=Perla |título= Yagán, las partes de la oración|año=1977}}</ref>
+
+=== Etimología 2===
+{{etimología|leng=yag}}
+
+==== {{letra|yag}} ====
+[[Categoría:YAG:Alfabeto]]
+;1: {{impropia|Decimocuarta [[letra]] y sexta [[vocal]] del [[alfabeto]] yagán}}.
+{{uso|leng=yag|minúscula}}.
+{{relacionado|leng=yag|O|nota=mayúscula}}.
+{{relacionado|tit=Abecedario yagán|leng=yag|a|æ|ch|e|ö|f|h|i|j|k|l|m|n|o|p|r|rh|s|š|t|u|w|x}}
+
+<!-- si vas a insertar una nueva sección de etimología o de idioma, por favor hazlo ↑  arriba ↑  de esta línea. Por favor no borres esta línea ni las dos siguientes-->
+
+==Referencias y notas==
+<references />

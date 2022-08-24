@@ -1,0 +1,78 @@
+{
+  "name": "@giancosta86/cervantes",
+  "version": "1.0.0",
+  "description": "Extract and classify Spanish terms from wiki pages, with TypeScript",
+  "keywords": [
+    "extract",
+    "classify",
+    "Spanish",
+    "terms",
+    "wiki",
+    "pages",
+    "Wiktionary",
+    "Wikcionario",
+    "JardineroJS",
+    "plugin"
+  ],
+  "homepage": "https://github.com/giancosta86/CervantesJS#readme",
+  "bugs": "https://github.com/giancosta86/CervantesJS/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Gianluca Costa",
+    "email": "gianluca@gianlucacosta.info",
+    "url": "https://gianlucacosta.info/"
+  },
+  "files": [],
+  "main": "dist",
+  "types": "dist",
+  "repository": "giancosta86/CervantesJS",
+  "scripts": {
+    "clean": "rimraf dist coverage giancosta86-*.tgz",
+    "clean:all": "yarn clean && rimraf node_modules",
+    "format": "prettier --write .",
+    "prepack": "yarn check-all && yarn build && yarn test:prod",
+    "check-all": "yarn check-format && yarn lint && yarn test",
+    "check-format": "prettier --check .",
+    "lint": "eslint . --ext .js,.ts,.jsx,.tsx,.cjs,.mjs",
+    "test": "cross-env NODE_OPTIONS=\"-r ts-node/register --no-warnings\" jest",
+    "test:watch": "yarn test --watch",
+    "test:coverage": "yarn test --coverage",
+    "build": "yarn compile-ts && yarn copy-static",
+    "compile-ts": "tsc",
+    "copy-static": "yarn copy-regexes && yarn copy-test-pages",
+    "copy-regexes": "copyfiles -a -u 1 \"src/extraction/inspectors/regexes/data/**/*\" dist",
+    "copy-test-pages": "copyfiles -a -u 1 \"src/extraction/testPages/**/*\" dist",
+    "watch": "yarn compile-ts --watch",
+    "test:prod": "jest dist --testPathIgnorePatterns=/_.+"
+  },
+  "dependencies": {
+    "@giancosta86/jardinero-sdk": "^1.0.0",
+    "node-fetch": "^2",
+    "unbzip2-stream": "^1.4.3"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.2.215",
+    "@swc/jest": "^0.2.21",
+    "@types/better-sqlite3": "^7.6.0",
+    "@types/jest": "^28.1.4",
+    "@types/node": "^16",
+    "@types/node-fetch": "^2.6.2",
+    "@types/unbzip2-stream": "^1.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "copyfiles": "^2.4.1",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.21.0",
+    "jest": "^28.1.2",
+    "prettier": "^2.7.1",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.9.0",
+    "typescript": "^4.7.4"
+  },
+  "engines": {
+    "node": ">=16.16.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

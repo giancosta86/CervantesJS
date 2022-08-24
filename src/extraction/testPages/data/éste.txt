@@ -1,0 +1,19 @@
+{{desambiguación|este|esté}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈes.te}}
+
+=== Etimología ===
+{{etimología2|véase {{l|es|este|num=2}}}}.
+
+=== {{pronombre demostrativo|es}} masculino ===
+{{inflect.es.adj.ad-lib|éste|éstos|ésta|éstas|link=s}}
+
+;1: {{grafía|este|texto=Grafía anticuada de}} <small>{{impropia|(pronombre o adjetivo para indicar algo o a alguien que está cerca de quien habla).}}</small>
+{{uso|{{reforma 2010}}}}. Se empleaba solamente cuando había riesgo de ambigüedad sobre si se trataba de un [[pronombre]] o de un [[adjetivo]].<ref>{{no-tilde|este|2=el pronombre}}</ref>
+
+=== Traducciones ===
+{{trad-véase|1|este|num=2}}
+
+== Referencias y notas ==
+<references />

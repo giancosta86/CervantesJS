@@ -1,0 +1,87 @@
+{{desambiguación|věž}}
+{{ampliable}}
+
+== {{lengua|es}} ==
+{{pron-graf|pron=seseo|altpron=No seseante|fone=beθ|2pron=seseo|alt2pron=Seseante|2fone=bes}}
+
+=== Etimología ===
+{{etimología|la|vicis}}
+
+=== {{sustantivo femenino|es}} ===
+{{inflect.es.sust.ad-lib|vez|veces|link=sí}}
+
+;1: {{plm|cada}} [[realización]] de un [[acontecimiento]] o [[acto]] en [[momento]], [[tiempo]] y [[circunstancia]]s [[diferente]]s, y [[susceptible]]s de [[repetición]].
+;2: {{plm|ocasión}} o tiempo [[determinado]] en que se [[efectuar|efectúa]] algo, aunque no sea en el [[orden]] [[sucesivo]].
+{{sinónimo|vuelta|nota=Chile, coloquial}}
+;3: Ocasión o tiempo de [[hacer]] alguna [[cosa]] por orden o [[turno]].
+;4: En [[plural]]: [[jurisdicción]] o [[ministerio]] que alguien ejerce, [[suplir|supliendo]] al [[titular]] (úsase más comúnmente con el verbo ''[[hacer]]'').
+
+{{clear}}
+
+=== Locuciones ===
+
+{{rel-arriba|Locuciones con «vez»}}
+* [[a la de veces]]
+* [[a las de veces]]
+* [[a las veces]]
+* [[a la vez]]
+* [[a mala vez]]
+* [[a mi vez]]
+* [[a tu vez]]
+* [[a su vez]]
+* [[a veces]]
+* [[cada vez que]]
+* [[cuántas veces he dicho]]
+* [[decir alguien unas veces cesta y otras ballesta]]
+* [[de una vez]]
+* [[de una vez para siempre]]
+* [[de vez en cuando]]
+{{rel-centro}}
+* [[en vez de]]
+* [[mala vez]]
+* [[otra vez]]
+* [[por vez]]
+* [[tal cual vez]]
+* [[tal vez]]
+* [[tal y tal vez]]
+* [[toda vez que]]
+* [[tomarle a alguien la vez]]
+* [[una que otra vez]]
+* [[una vez]]
+* [[una vez que]]
+* [[una vez que otra]]
+* [[un tal que vez]]
+{{rel-abajo}}
+
+=== Véase también ===
+{{w}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|1|Mal}}
+{{t+|br|1|gwech|f|,|gwezh|f|,|taol|m}}
+{{t+|ca|1|vegada|,|cop}}
+{{t+|da|1|gang}}
+{{t+|eo|1|fojo}}
+{{t+|eu|1|aldi}}
+{{t+|fr|1|fois}}
+{{t+|en|1|time}}
+{{trad-centro}}
+{{t+|it|1|volta}}
+{{t+|ja|1|度|tr=do}}
+{{t+|arn|1|-chi|,|2|nag|,|2|rupa}}
+{{t+|nl|1|maal|,|keer}}
+{{t+|pl|1|raz}}
+{{t+|pt|1|feita|,|vez}}
+{{t+|ro|1|dată}}
+{{trad-abajo}}
+
+== {{lengua|br}} ==
+{{pron-graf|leng=br|fone=ˈveːs|fone2=ˈveː}}
+;1: {{forma|leng=br|bez|mutación suave del sustantivo masculino|tipo=mutación|glosa=tumba}}.
+;2: {{forma|leng=br|mez|mutación suave del sustantivo colectivo|tipo=mutación|glosa=bellota‎s}}.
+
+== Referencias y notas ==
+<references />

@@ -1,0 +1,44 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ma.ɾa.βiˈʎo.so|fone2=ma.ɾa.βiˈʝo.so}}
+
+=== Etimología ===
+{{etimología2|De ''[[maravilla]]'' y el sufijo ''[[-oso]]''}}
+
+=== {{adjetivo|es}} ===
+{{inflect.es.adj.reg|maravillos}}
+
+;1: Que suscita [[admiración]], [[sorpresa]] o [[estupor]]
+{{sinónimo|admirable|extraordinario|singular|sorprendente}}.
+
+;2: Por extensión, de inusual belleza
+
+;3: Que suscita disgusto por una mala acción cometida por un tercero.
+{{uso|irónico}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ar|عجيب}}
+{{t+|de|1|wunderbar|,|2|wunderschön}}
+{{t+|bg|чудесен|,|поразителен}}
+{{t+|ca|meravellós}}
+{{t+|eo|1|mirinda|,|2|belega}}
+{{t+|fr|merveilleux}}
+{{t+|gl|marabilloso}}
+{{t+|en|1|wonderful|,|2|lovely}}
+{{t+|is|dásamlegur}}
+{{t+|it|meraviglioso}}
+{{trad-centro}}
+{{t+|ja|素晴しい}}
+{{t+|arn|1|afmatufal}}
+{{t+|nl|fantastich|,|prachtig|,|wonderbaarlijk}}
+{{t+|pl|cudowny|,|zdumiewający}}
+{{t+|pt|maravilhoso}}
+{{t+|ru|замечательный}}
+{{t+|sv|underbar}}
+{{t+|zh|奇妙}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

@@ -1,0 +1,33 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=to.ˈto.ɾa}}
+
+=== Etimología ===
+{{etimología|qu|tutura}}
+
+=== {{sustantivo femenino|es}} ===
+{{inflect.es.sust.reg}}
+
+;1 {{plantas}}: Yerbas altas, de varas redondas y esponjosas, que crecen en los bañados y al borde de las lagunas; se le llama también junco y juncales a los terrenos que cubren estas plantas que el paisano utiliza para las quinchas de sus ranchos.
+{{ámbito|Río de la Plata|Chile}}.
+:*'''Ejemplos:'''
+::"El huarpe todavía hace flotar su bolsa de ''totora'' para echar sus redes a las regaladas truchas". (D. F. SARMIENTO, Recuerdos de Provincia.)
+{{sinónimo|espadaña|ñisñil}}.
+
+=== Información adicional ===
+{{derivad|totoral|totorero}}
+{{parónimo|tutora}}.
+
+=== Véase también ===
+* {{wikipedia}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+<!-- formato: {{t+|idioma|<acepción#>|palabra|género}} p. ej. {{t+|fr|1|chose|f}} -->
+{{trad-centro}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+{{rt leguizamón}}
+<references />

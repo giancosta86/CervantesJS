@@ -1,0 +1,50 @@
+== {{lengua|es}} ==
+{{pron-graf|alt=[[pronombre]] [[personal]]|fone=pɾoˈnom.bɾe peɾ.soˈnal}}
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.ad-lib|link=s|pronombre personal|pronombres personales}}
+
+;1 {{lingüística}}: {{plm|pronombre}} que [[sustituye]] un [[sustantivo]] o [[adjetivo]], marcando la [[persona]] [[gramatical]] a la que [[corresponde]], además de los otros [[rasgo]]s gramaticales correspondientes a su [[categoría]]
+
+=== Véase también ===
+{{W}}
+* [[primera persona]], [[primera persona inclusiva|inclusiva]] o [[primera persona exclusiva|exclusiva]]
+* [[segunda persona]]
+* [[tercera persona]]
+* [[cuarta persona]]
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|1|Personalpronomen}}
+{{t+|gsw|1|personalpronomen}}
+{{t+|an|1|pronombre presonal}}
+{{t+|br|1|raganv-gour}}
+{{t+|ca|1|pronom personal|m}}
+{{t+|ce|1|персональнан цIерметдош}}
+{{t+|ht|1|pwonon pèsonèl}}
+{{t+|hr|1|osobne zamjenice}}
+{{t+|sl|1|osebni zaimek}}
+{{t+|fo|1|persónur}}
+{{t+|fi|1|persoonapronomini}}
+{{t+|fr|1|pronom personnel}}
+{{t+|gl|1|pronome persoal|m}}
+{{trad-centro}}
+{{t+|hu|1|személyes névmás}}
+{{t+|en|1|personal pronoun}}
+{{t+|is|1|persónufornafn}}
+{{t+|it|1|pronome personale|m}}
+{{t+|la|1|pronomen personale}}
+{{t+|ms|1|kata ganti diri}}
+{{t+|nl|1|persoonlijk voornaamwoord}}
+{{t+|pl|1|zaimek osobowy|m}}
+{{t+|pt|1|pronome pessoal|m}}
+{{t+|qu|1|runa sutip rantin}}
+{{t+|ro|1|pronume personal}}
+{{t+|ru|1|личные местоимения}}
+{{t+|sv|1|personligt pronomen}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

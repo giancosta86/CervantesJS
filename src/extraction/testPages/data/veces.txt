@@ -1,0 +1,25 @@
+{{desambiguación|vecés}}
+
+== {{lengua|es}} ==
+{{pron-graf
+|división=ve - ces
+|pron=seseo|altpron=Seseante|fone=ˈbe.ses
+|2pron=seseo|alt2pron=No seseante|2fone=ˈbe.θes
+|acentuación=grave
+|longitud_silábica=2
+|número_letras=5
+|homófono=beses|hnota=seseante}}
+
+=== Forma sustantiva femenina ===
+;1: {{forma sustantivo plural|vez}}.
+
+=== Forma verbal ===
+;2: {{forma verbo|vezar|p=2s|t=presente|m=subjuntivo}}.
+{{uso}} se emplea también para el {{l|es|imperativo}} negativo: «no ''veces''».
+{{relacionado|veza|nota1=imperativo afirmativo|vézate|nota2=pronominal}}.
+
+=== Información adicional ===
+{{rima|e.ses|e.θes}}.
+
+== Referencias y notas ==
+<references />

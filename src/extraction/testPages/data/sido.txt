@@ -1,0 +1,18 @@
+== {{lengua|es}} ==
+{{pron-graf
+|división=si - do
+|fone=ˈsi.ðo
+|longitud_silábica=2
+|número_letras=4
+|acentuación=grave}}
+
+=== Forma verbal ===
+
+;1: {{participio|ser}}.
+{{uso}} a diferencia de otros participios, no tiene uso {{l|es|adjetivo}} ni {{l|es|sustantivo}}.
+
+=== Información adicional ===
+{{rima|i.ðo}}.
+
+== Referencias y notas ==
+<references />

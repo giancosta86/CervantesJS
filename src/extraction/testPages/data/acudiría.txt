@@ -1,0 +1,11 @@
+== {{lengua|es}} ==
+{{pron-graf}}
+
+=== Forma verbal ===
+
+;1: {{forma verbo|acudir|p=1s|t=condicional}}.
+
+;2: {{forma verbo|acudir|p=3s|t=condicional}}.
+
+== Referencias y notas ==
+<references />

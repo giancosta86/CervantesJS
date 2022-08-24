@@ -1,0 +1,139 @@
+{{desambiguación|YO|yó|’yo|yo'|y/o|yō|yö|y.o.|yoo|yo'o|yo'ó|yó’ó|}}
+== {{lengua|es}} ==
+{{pron-graf|fone=ʝo|fone2=ʒo|audio=LL-Q1321 (spa)-Rodelar-yo.wav}}
+
+=== Etimología ===
+{{etimología|latín tardío|eo}} y este del clasico {{l+|la|ego}}, a su vez del protoindoeuropeo {{l+|ine|*éǵh₂}}. Compárese el aragonés {{l+|an|yo}}, el catalán {{l+|ca|jo}}, el francés {{l+|fr|je}}, el gascón {{l+|oc|jo}}, el gallego {{l+|gl|eu}}, el italiano {{l+|it|io}}, el occitano {{l+|oc|ieu}}, el portugués {{l+|pt|eu}}, el rumano {{l+|ro|eu}} o el rumanche {{l+|rm|eau}}.
+
+=== {{pronombre personal|es}} ===
+{{inflect.es.pron.pers.1}}
+[[Categoría:ES:Lista Swadesh]]
+
+;1: {{impropia|Úsase para designar al hablante o enunciador como sujeto de la frase}}
+:*'''Uso:''' Permitiendo la gramática del español identificar al hablante por la conjugación verbal, el uso explícito del pronombre en posición de sujeto es normalmente enfático o contrastivo
+:*'''Ejemplos:'''
+::"hasta ''yo'', que soy entrenador, estoy cansado". Matallanas, Carlos. ''[http://www.elconfidencial.com/deportes/2011/20110320-76371.html ¿Se atreverá Mourinho a sacar el 'trivote' ante el Barcelona?]''. ElConfidencial.com, 20 de marzo de 2011
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.ad-lib|yo|[[yos]] ''o'' [[yoes]]}}
+
+;2 {{filosofía|y|psicología}}: {{plm|conciencia}} de la [[persona]] [[humana]], en especial en cuanto es capaz de [[percibir]] la [[realidad]]
+{{sinónimo|ego}}.
+
+=== Locuciones ===
+* [[yo que]]: úsase para expresar una hipótesis acerca de la propia conducta en determinada situación
+{{ejemplo|''Yo que tú'' no haría eso}}
+
+=== Véase también ===
+{{W}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ain|1|クアニ|,|カニ}} (kuani)
+{{t+|af|1|ek}}
+{{t+|sq|1|unë}}
+{{t+|de|1|ich|,|2|Ich}}
+{{t+|qbt|1|cu}}
+{{t+|hy|1|ես}}
+{{t+|ar|1|أنا}} ('ana)
+{{t+|az|1|mən}}
+{{t+|be|1|я}}
+{{t+|br|1|me}}
+{{t+|bs|1|ja}}
+{{t+|bg|1|аз}}
+{{t+|ca|1|jo}}
+{{t+|sai-chn|1|ytí|,|y|,|i}}
+{{t+|cs|1|já}}
+{{t+|chr|1|ᎠᏯ}} (aya)
+{{t+|zh|1|我}} (wǒ)
+{{t+|ckt|гым}} (gym)
+{{t+|co|1|eiu}}
+{{t+|kw|1|my|,|me}}
+{{t+|hr|1|ja}}
+{{t+|da|1|jeg}}
+{{t+|sk|1|ja}}
+{{t+|sl|1|jaz}}
+{{t+|eo|1|mi}}
+{{t+|eu|1|ni|,|nik}}
+{{t+|fi|1|minä}}
+{{t+|fr|1|je|,|1-2|moi}}
+{{t+|fy|1|ik}}
+{{t+|gd|1|mi|,|mise}} ''(enfático)''
+{{t+|cy|1|mi}}
+{{t+|gl|1|eu}}
+{{t+|ka|1|მე|tr=[[me]]}}
+{{t+|got|1|𐌹̈𐌺|tr|ik}}
+{{t+|el|1|εγώ}}
+{{t+|guc|1|taya}}
+{{t+|gn|1|che}}
+{{t+|hu|1|én}}
+{{t+|id|1|saya|,|1|saja|nota|ortografía antigua}}
+{{t+|en|1|I|,|2|ego}}
+{{t+|ia|1|io}}
+{{t+|ga|1|mé|,|mise|nota|enfático}}
+{{trad-centro}}
+{{t+|is|1|ég}}
+{{t+|it|1|io}}
+{{t+|ja|1|私|,|1|わたし}} ([[watashi]]), {{trad|ja|わたくし|1}} ([[watakushi]]), {{trad|ja|僕}}, {{trad|ja|ぼく}} ([[boku]]), {{trad|ja|俺}}, {{trad|ja|おれ}} ([[ore#Japonés|ore]])
+{{t+|alc|1|če|,|čo}}
+{{t+|kuz|1|ack'cka}}
+{{t+|la|1|ego}}
+{{t+|lo|1|ຂ້ອຍ}}
+{{t+|lv|1|es}}
+{{t+|lt|1|aš}}
+{{t+|lb|1|ech}}
+{{t+|mk|1|јас}}
+{{t+|mfy|1|ínapo}}
+{{t+|mn|1|би}}
+{{t+|ms|saya}}
+{{t+|mt|jien}}
+{{t+|gv|1|mee|,|mish}} ''(enfático)''
+{{t+|arn|1|iñche}}
+{{t+|mit|1|sañá|,|ná|,|ru'u|,|ri}}
+{{t+|nci|1|nehuatl}}
+{{t+|nhn|1|,|ni-}}
+{{t+|nl|1|ik}}
+{{t+|no|1|jeg}}
+{{t+|pl|1|ja|,|2|ego|n|}}
+{{t+|pt|1|eu}}
+{{t+|pua|1|ji}}
+{{t+|quz|1|ñuqa}} 
+{{t+|qus|1|nuqa}}
+{{t+|rap|āu}}
+{{t+|ro|eu}}
+{{t+|ru|1|я}}
+{{t+|sc|1|deo }}
+{{t+|sr|1|ja}} (latino), {{trad|sr|ја}} (cirílico)
+{{t+|sv|1|jag}}
+{{t+|sw|1|mimi}} ''(independiente)'', {{trad|sw|ni-}} ''(prefijo verbal)'', '''si-''' ''(prefijo verbal negativo)''
+{{t+|th|1|ผม}} (pom) {{m}}, {{trad|th|ดิฉัน|1}} (di-chan) {{f}}, {{trad|th|ฉัน|1}} (chan) ''informal'', {{trad|th|กู|1}} (kū) ''arcaica o vulgar''
+{{t+|tr|ben}}
+{{t+|crh|men}}
+{{t+|uk|1|я}}
+{{t+|yag|1|hái}}
+{{t+|yaq|1|ínepo}}
+{{t+|yi|1|איך}}
+{{trad-abajo}}
+
+== {{lengua|otm}} ==
+{{pron-graf|leng=otm}}
+
+=== Etimología ===
+{{etimología|leng=otm}}.
+
+=== {{sustantivo|otm}} ===
+;1 : {{plm|vela}}.
+
+== {{lengua|ott}} ==
+{{pron-graf|leng=ott}}
+
+=== Etimología ===
+{{etimología|leng=ott}}.
+
+=== {{sustantivo|ott}} ===
+;1 {{mamíferos|leng=ott}}: {{plm|perro}}
+
+== Referencias y notas ==
+<references />

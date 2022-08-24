@@ -1,0 +1,168 @@
+{{desambiguación|Amar}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=aˈmaɾ}}
+
+=== Etimología ===
+{{etimología|la|amare|diacrítico=amāre}}
+
+=== {{verbo transitivo|es}} ===
+;1: Sentir [[amor]] por alguien o algo.
+{{sinónimos|desear|querer|adorar|estimar|apreciar|gustar}}.
+{{uso|Usado especialmente en Latinoamérica, más o menos poético en España}}.
+:*'''Ejemplos:'''
+:**''Amó'' a la ninfa [[w:Siringa|Siringa]], quien no le correspondía (tomado de [[w:Pan (mitología)|Pan]]).
+:**Francisco Pérez Pérez fue un hombre de honor que ''amó'' y comprendió al pueblo saharaui (tomado de [[w:Historia del Sahara Occidental|Historia del Sahara Occidental]]).
+:**Ha obtenido 2 oscars, en el apartado de la mejor música, con ''Tal como éramos'' ([[w:1973|1973]]) por la mejor banda sonora original y ''El golpe'' ([[w:1973|1973]]) por la mejor música adaptada. También ha sido nominado en 2 ocasiones más por ''La espía que me amó'' ([[w:1977|1977]]) y ''La decisión de Sophie'' ([[w:1982|1982]]) (tomado de [[w:Marvin Hamslisch|Marvin Hamslisch]]).
+:**También ha obtenido cierto éxito con las canciones en las peículas, colaborando entre otros con Alan y Marilyn Bergman, Barbra Streisand, Johnny Mercer, Carole Bayer Sanger o Bryan Adams. Gracias a esta colaboración ha recibido también numerosas nominaciones, exactamente ocho, a la mejor canción en las películas: ''Señor Kotcher'' ([[w:1971|1971]]), ''Tal como éramos'' ([[w:1973|1973]]), ''La espía que me amó'' ([[w:1977|1977]]), ''El próximo año, a la misma hora'' ([[w:1978|1978]]), ''Castillos de hielo'' ([[w:1979|1979]]), ''A Chorus Line'' ([[w:1985|1985]]), ''Shirley Valentine'' ([[w:1989|1989]]) y ''El amor tiene dos caras'' ([[w:1996|1996]]), obteniéndolo únicamente con ''Tal como éramos'' ([[w:1973|1973]]) (tomado de [[w:Marvin Hamslisch|Marvin Hamslisch]]).
+:**[[w:1977|1977]] - La espía que me ''amó'' ('''nominado al [[w:Oscar|Oscar]] y canción nominada al [[w:Oscar|Oscar]]''') (tomado de [[w:Marvin Hamslisch|Marvin Hamslisch]]).
+
+=== Conjugación ===
+{{es.v.conj.ar|am}}
+
+=== Información adicional ===
+*'''Pares mínimos''': [[mar]], [[Omar]] — [[alar]], [[hallar]], [[arar]], [[asar]], [[atar]], [[azar]] — [[amor]] — [[Amán]], [[amar#Español|amad]], [[amar#Español|amás]]
+{{anagrama|arma|mara|rama}}.
+{{derivad|amor|amabilidad|amable|amablemente|amación|amado|amador|amante|amatividad|amativo|amatorio|amorcillo|amorío|amormío|amorocharse|amorosamente|amoroso|desamar|desamor|desamador|desamable|desamoradamente|desamorado|desamoroso|desenamorar|enamorada|enamoradamente|enamoradizo|enamorado|enamorador|enamoramiento|enamorar|enamoricarse|enamoriscarse}}.
+
+=== Véase también ===
+{{w}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|1|lieben}}
+{{t+|ast|1|amar}}
+{{t+|bg|1|обичам|,|любя}}
+{{t+|ca|1|amar}}
+{{t+|ko|1|사랑|tr|sa-rang|,|애정|tr|ae-jeon}}
+{{t+|sk|1|milovať|,|ľúbiť}}
+{{t+|sl|1|ljubiti|,|imeti rad}}
+{{t+|eo|1|ami}}
+{{t+|et|1|armastama}}
+{{t+|eu|1|maitatu}}
+{{t+|fi|1|rakastaa}}
+{{t+|fr|1|aimer}}
+{{t+|gl|1|amar}}
+{{t+|gn|1|hayhu}}
+{{t+|el|1|αγαπώ|tr|agapó|, |αγαπάω|tr|agapáo|}}
+{{t+|he|1|לאהוב}}
+{{t+|en|1|love|verb}}
+{{trad-centro}}
+{{t+|ia|1|amar}}
+{{t+|it|1|amare}}
+{{t+|ja|1|恋する|,|こいする|tr|koisuru|,|愛する|,|あいする|tr|aisuru}}
+{{t+|la|1|amo}}
+{{t+|lv|1|mīlēt}}
+{{t+|lt|1|mylėti}}
+*{{zh}}: ''Tradicional:'' [[愛]], [[熱愛]], [[愛好]], [[愛戴]]; ''Simplificado:''[[爱]], [[热爱]], [[爱好]], [[爱戴]]
+{{t+|nci|1|tlahzohtla}}
+{{t+|nl|1|houden van|,|beminnen|,|liefhebben}}
+{{t+|pl|1|kochać}}
+{{t+|pt|1|amar}}
+{{t+|ro|1|iubi|,|(se) îndrăgosti|,|adora}}
+{{t+|ru|1|любить|tr|l'ubit'}}
+{t+|sa|स्निह्यति}}
+{{t+|sv|1|älska|,|vara kär i}}
+{{t+|tr|1|sevmek}}
+{{trad-abajo}}
+
+== {{lengua|ast}} ==
+{{pron-graf|leng=ast}}
+
+=== Etimología ===
+{{etimología|la|amare|diacrítico=amāre|leng=ast}}
+
+=== {{verbo transitivo|ast}} ===
+;1: {{plm}}.
+
+=== Conjugación ===
+{{ast.v.conj.ar|am}}
+
+== {{lengua|ca}} ==
+{{pron-graf|leng=ca}}
+
+=== Etimología ===
+{{etimología|la|amare|diacrítico=amāre|leng=ca}}
+
+=== {{verbo transitivo|ca}} ===
+;1: {{plm}}.
+
+=== Conjugación ===
+{{ca.v.conj.ar|am}}
+
+== {{lengua|gl}} ==
+{{pron-graf|leng=gl}}
+
+=== Etimología ===
+{{etimología|la|amare|diacrítico=amāre|leng=gl}}
+
+=== {{verbo transitivo|gl}} ===
+;1: {{plm}}.
+
+=== Conjugación ===
+{{gl.v.conj.ar|am}}
+
+== {{lengua|ia}} ==
+
+=== Etimología 1 ===
+{{pron-graf|leng=ia|fone=aˈmar}}
+{{etimología|la|amare|diacrítico=amāre|leng=ia}}, así como de las formas afines en las lenguas romances.
+
+==== {{verbo transitivo|ia}} ====
+;1: {{plm}}, [[gustar]].
+
+{{clear}}
+
+=== Etimología 2 ===
+{{pron-graf|leng=ia|fone=aˈmar}}
+{{etimología|la|amarus|leng=ia}}, así como de las formas afines en las lenguas romances.
+
+==== {{adjetivo|ia}} ====
+;2: {{plm|amargo}}.
+
+== {{lengua|sga}} ==
+{{pron-graf|leng=sga|v=amhar|v2=amor}}
+
+=== Etimología ===
+{{etimología|leng=sga}}
+
+=== {{sustantivo masculino|sga}} y neutro ===
+[[Categoría:SGA:Sustantivos neutros]]
+
+;1: {{plm|canción}}.
+{{sinónimos|leng=sga|amrán}}.
+
+=== {{sustantivo|sga|verbo}} ===
+;2: {{plm|canto}}.
+{{sinónimos|leng=sga|amrán}}.
+
+;3: {{plm|gemido}}.
+
+== {{lengua|oc}} ==
+{{pron-graf|leng=oc|fone=aˈmaɾ}}
+
+=== Etimología ===
+{{etimología|la|amarus|leng=oc}}
+
+=== {{adjetivo|oc}} ===
+{{inflect.adj.m-f-sg-pl|leng=oc|link=s|amar|amara|amars|amaras}}
+[[Categoría:OC:Sabores]]
+;1: {{plm|amargo}}.
+
+== {{lengua|pt}} ==
+{{pron-graf|leng=pt|fone=ɐˈmar}}
+
+=== Etimología ===
+{{etimología|la|amare|diacrítico=amāre|leng=pt}}
+
+=== {{verbo transitivo|pt}} ===
+;1: {{plm}}
+
+=== Conjugación ===
+{{pt.v.conj.ar|am}}
+
+== Referencias y notas ==
+<references />
+* {{cita libro|título=Dictionary of the Irish Language |editor=eDIL project |URL=http://www.dil.ie/ |idioma=inglés}}

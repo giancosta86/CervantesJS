@@ -1,0 +1,21 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=a.βun̪ˈda.ðaˈmen̪.te|ac=mente|ls=6|nl=13}}
+
+=== Etimología ===
+{{etimología|sufijo|abundado|mente}}.
+
+=== {{adverbio|es}} ===
+;1: {{adverbio de adjetivo|abundante}}.
+{{uso|desusado}}.
+{{sinónimo|abundantemente}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+<!-- formato: {{t+|idioma|<acepción#>|palabra|género}} p. ej. {{t+|fr|1|chose|f}} -->
+{{trad-centro}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

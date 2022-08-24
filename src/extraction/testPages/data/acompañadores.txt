@@ -1,0 +1,5 @@
+== {{lengua|es}} ==
+{{pron-graf}}
+
+=== Forma adjetiva ===
+;1: {{forma adjetivo|leng=es|acompañador|género=|número=plural}}.

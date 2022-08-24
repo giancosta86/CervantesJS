@@ -1,0 +1,11 @@
+{{desambiguación|segara|Segarra}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=se.ɣaˈɾa}}
+
+=== Forma verbal ===
+
+;1: {{forma verbo|leng=es|segar|3s|fut|ind}}.
+
+== Referencias y notas ==
+<references />

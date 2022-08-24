@@ -1,0 +1,6 @@
+\{\{\s*
+    (?:
+        (?:forma\s+adjetivo\s*\|\s*[^|]+?\|\s*(?<reference_entry>\p{L}[\p{L}.\- ]*\p{L})\s*\|)
+        |
+        (?:adjetivo\b)
+    )

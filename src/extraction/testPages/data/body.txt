@@ -1,0 +1,26 @@
+== {{lengua|en}} ==
+{{pron-graf|leng=en
+|pron=Received Pronunciation|fono=ˈbɒd.i|audio=En-uk-body.ogg|aunota=Londres|audio2=LL-Q1860 (eng)-Back ache-body.wav|aunota2=Londres
+|2pron=General American|2fono=ˈbɑd.i|2fone2=ˈbɑɾ.i|2audio2=en-us-body.ogg}}
+
+=== Etimología ===
+{{etimología2|leng=en|Del inglés medio ''bodig''.}}
+
+=== {{sustantivo|en}} ===
+{{inflect.sust.sg-pl|man|men}}
+
+;1: {{plm|cuerpo}}.
+;2: El [[casco]] de un [[barco]].
+;3: {{plm|fuselaje}}.
+;4: {{plm|carrocería}}.
+
+=== {{verbo|en}} ===
+;5: Dotar de cuerpo.
+;6: Representar o estar en cuerpo presente.
+
+=== {{adjetivo|en}} ===
+;7: Que pertenece o esta relacionado con el cuerpo.
+;8: Que pertenece o esta relacionado con la parte principal.
+
+== Referencias y notas ==
+<references />

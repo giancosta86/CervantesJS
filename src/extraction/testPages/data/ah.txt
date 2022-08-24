@@ -1,0 +1,66 @@
+{{desambiguación|AH|Ah}}
+
+== {{lengua|es}} ==
+{{pron-graf|alt=¡ah!|fone=a|h=a|h2=ha}}
+
+=== Etimología ===
+{{etimología}}.
+
+=== {{interjección|es}} ===
+
+;1: {{impropia|Denota [[tristeza]] o [[decepción]].}}
+{{uso}} con entonación descendente.
+:*{{audio|Ah-decepción.ogg}}
+
+;2: {{impropia|Indica [[admiración]], [[sorpresa]], o emociones similares}}.
+{{uso}} con entonación ascendente-descendente.
+:*{{audio|Ah-admiración.ogg}}
+{{relacionado|ajá|oh|huy}}.
+
+;3: {{impropia|Indica que se ha comprendido algo}}.
+{{uso}} con entonación ascendente-descendente y breve.
+:*{{audio|Ah-comprensión.ogg}}
+
+;4: {{impropia|Se emplea para interrogar, cuando no se ha entendido algo}}.
+{{ámbito|América}}.
+{{uso}} con entonación ascendente de pregunta.
+:*{{audio|Ah-interrogativo.ogg}}
+{{sinónimo|eh|cómo|qué}}.
+
+;5: {{impropia|Indica disgusto por una acción cometida por otra persona}}
+{{ámbito|Venezuela}}
+{{uso}} con entonación ascendente-descendente y prolongada.
+
+=== Locuciones ===
+*[[ah caramba]]: úsese cuando una persona delata a un tercero por una acción cometida o cuando una circunstancia es adversa. También puede denotar sorpresa o ironía.
+*[[ah carajo]]: similar al anterior (malsonante)
+*[[ah OK]]: indica comprensión luego de aclarado un asunto.
+*[[ah, qué maravilla]]: expresión irónica que denota contrariedad o disgusto.
+
+=== Véase también ===
+* [[ah ah]]
+{{w}}.
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+<!-- formato: {{t+|idioma|<acepción#>|palabra}} p. ej. {{t+|it|1|ciao}} -->
+<!--{{t+|de|}}-->
+<!--{{t+|ar|}}-->
+<!--{{t+|bg|}}-->
+<!--{{t+|ca|}}-->
+<!--{{t+|eo|}}-->
+<!--{{t+|fr|}}-->
+{{trad-centro}}
+<!--{{t+|en|}}-->
+<!--{{t+|it|}}-->
+<!--{{t+|ja|}}-->
+<!--{{t+|nl|}}-->
+<!--{{t+|pl|}}-->
+<!--{{t+|pt|}}-->
+{{t+|sa|अहो}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

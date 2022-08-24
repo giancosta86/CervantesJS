@@ -1,0 +1,332 @@
+{{desambiguación|Flor}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=floɾ|h=Flor|audio=LL-Q1321 (spa)-Rodelar-flor.wav}}
+
+=== Etimología ===
+{{etimología|la|flos}}, y este del protoindoeuropeo {{l+|ine|*bʰleh₃-}}, a su vez de la raíz {{l+|ine|*bʰel-}} ("[[brotar]], [[brilla]]"). Compárese el griego antiguo {{l+|grc|φλέγω|glosa=quemar}}, el latín {{l+|la|flagrare}}, el sánscrio {{l+|sa|भर्ग|tr=bhárga|glosa=brillo}}, el protogermánico {{l+|gem-pro|*bālo}} o el protogermánico {{l+|gem-pro|*blǣwaz}}
+
+=== {{sustantivo femenino|es}} ===
+[[Archivo:Violette1(s).jpg|right|thumb|[1]]]
+[[Archivo:2004-02-14 Zantedeschia aethiopica.jpg|thumb|right|150px|[2]]]
+[[Archivo:Flor_Frita-2009.jpg|thumb|right|150px|[9]]]
+{{inflect.es.sust.reg-cons}}
+
+;1 {{botánica}}: {{plm|órgano}} reproductivo de las [[angiosperma]]s, caracterizado generalmente por tener vivos [[color]]es. Se compone de distintos tipos de hojas especializadas, algunas con función propiamente reproductiva y otras que actúan como protectoras de las anteriores o como [[medio de reclamo]] para atraer [[polinizador]]es.
+
+;2: Por extensión, estructura vegetal semejante a una flor<sub>1</sub>, particularmente ciertas clases de [[inflorescencia]] (flores reunidas).
+
+;3: Figuradamente, expresión de [[admiración]] y [[halago]].
+{{sinónimos|halago|elogio|piropo|requiebro|galantería}}.
+{{relacionado|coqueteo}}.
+
+;4: Condición de [[virgen]], que nunca, durante su vida, ha mantenido relaciones sexuales.
+{{sinónimo|virginidad|doncellez|castidad}}.
+{{uso|obsoleto}}.
+
+;5: Figuradamente, lo mejor de una cosa o lo más selecto de un grupo.
+{{sinónimo|crema|flor y nata}}
+{{antónimo|hez}}
+
+;6 {{naipes}}: En el juego de [[truco]], tener en la mano [[tres]] cartas de un mismo [[palo]].
+
+;7: [[mancha|Manchita]] [[blanco|blanca]] que en ocasiones aparece en las [[uña]]s.
+{{ámbito|Chile}}.
+{{sinónimo|mentira}}.
+
+;8: Pieza móvil o fija, situada al final de una cañería de [[agua]], a través de cuyos agujeros sale el agua de la [[ducha]].
+{{ámbito|Argentina}}.
+{{sinónimo|roseta|alcachofa|nota2=España}}.
+
+;9 {{platos}}: {{plm|dulce}} hecho con un [[mold]]e para darle una forma de flor, que se prepara con [[harina]], [[azúcar]], [[leche]] y [[huevo]]s y se [[freír|fríe]] en [[aceite]].
+{{ámbito|España}}.
+
+;10: En las pieles curtida, cara exterior que se pule, opuesta a la cara interior o [[carnaza]].
+
+;11: Hábito o costumbre.
+{{ámbito|España}}.
+
+=== {{interjección|es}} ===
+;12: {{impropia|Respuesta que expresa satisfacción y alegría}}.
+{{ámbito|Chile}}.
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba}}
+*[[flor completa]]: Flor con pétalos y sépalos
+*[[flor compuesta]]: Tipo de inflorescencia, en que las flores simples se reúnen formando una suerte de flor, con un botón en el centro.<!-- mejorable o reescribible -->
+*[[flor de amor]]: [[amaranto|Amaranto]]
+*[[flor de azufre]]
+*[[flor de cacao]]: Planta bombácea de México
+*[[flor de chivo]]: Arbusto ornamental asiático (Cuba)
+*[[flor de estufa]]: Persona impresionable, [[sensible]] y [[delicado|delicada]]
+*[[flor de Jamaica]]: Flor de una malvácea, con la que hace una bebida (El Salvador, México)
+*[[flor de Jesús]]: Orquídea de El Salvador
+*[[flor de la abeja]]: Planta ornamental, especie de orquídea (Álava)
+*[[flor de la canela]]
+*[[flor de la cruz]]: Planta apocinácea (Guatemala)
+*[[flor de la maravilla]]
+*[[flor de la Pasión]]: [[pasionaria]]
+*[[flor de la sal]]: Espuma de color [[rojizo]] de la [[sal]]
+*[[flor de la sangre]]: Planta tropeolácea peruana
+*[[flor de la Trinidad]]: Planta [[ornamental]] llamada también [[trinitaria]] o [[pensamiento]]
+*[[flor de la vida]]: La [[juventud]]
+*[[flor de lazo]]: Planta de la familia de las Iridáceas
+*[[flor de lis]]: En [[heráldica]], flor de lirio usada por la casa de los Borbones
+*[[flor de los Santos]]: Orquídea de México
+*[[flor de mayo]]: Planta melastomácea de Colombia
+*[[flor de mosquito]] Orquídea del Ecuador
+*[[flor de Pascua]]: Planta leñosa de hojas grandes usada en España como adorno en Navidad
+*[[flor de un día]]
+*[[flor de ángel]]: Planta ornamental, llamada habitualmente narciso amarillo (Álava)
+*[[flor de]] algo: Expresión de admiración por algo, debido a alguna cualidad como su hermosura, tamaño, número, etc
+*[[flor del aire]]: Planta bromeliácea (Argentina)
+*[[flor del corazón]]: Planta mejicana, tipo de magnolia
+*[[flor del Corpus]]: Orquídea de México
+*[[flor del cuervo]]: Planta apocinácea (México)
+*[[flor del embudo]]: [[cala]]
+*[[flor del Espíritu Santo]]: Bellísima orquídea de Panamá
+*[[flor del Paraíso]]: Orquídea del Ecuador
+*[[flor del volcán]]: Orquídea salvadoreña
+*[[flor incompleta]]
+*[[flor irregular]]
+*[[flor negra]]: Vainilla de México
+*[[flor regular]]
+*[[flor y nata]]: Lo más [[selecto]] dentro de un grupo
+*[[flores blancas]]: [[flujo blanco|Flujo blanco]]
+*[[flores conglomeradas]]
+*[[flores cordiales]]: [[mezcla|Mezcla]] de flores para [[tisana]]s [[sudorífico|sudoríficas]]
+*[[flores de cantueso]]: Cosa [[inane]] o [[baladí]]
+*[[flores de mano]]: Artesanía que imita una flor
+*[[flores de mayo]]: Culto especial a la Virgen en el mes de mayo
+*[[flores de maíz]]: Palomitas de [[maíz]]
+*[[flores de muerto]]
+*[[flores de zinc]]: El [[óxido]] que forma el[[ zinc]]
+*[[flores solitarias]]: en [[botánica]], flores dispersas, no agrupadas
+{{rel-centro}}
+*[[azúcar flor]]
+*[[azúcar de flor]]
+*[[harina de flor]]
+*[[a flor de agua]]: Muy cerca de la [[superficie]] del [[agua]] o sobre ella.
+*[[a flor de cuño]]: En numismática, muy bien conservdo.
+*[[a flor de piel]]: Susceptible, que se molesta o irrita con facilidad.
+*[[a flor de tierra]]: Muy cerca de la [[superficie]] de la [[tierra]] o sobre ella.
+*[[ajustado a flor]]: En [[ebanistería]], pieza ajustada de modo de formar una sola superficie
+*[[a la flor del agua]]: Muy cerca de la [[superficie]] del [[agua]] o sobre ella.
+*[[andarse a la flor del berro]]: Andar de [[carrete]], de [[parranda]] (España)
+*[[andarse en flores]]: [[correrse|Correrse]], esquivar una respuesta franca o tratar el asunto.
+*[[buscar la flor del berro]]: Andar de [[carrete]], de [[parranda]] (España)
+*[[caer en flores]]: Morir tempranamente.
+*[[como mil flores]]
+*[[como unas flores]]
+*[[dar en la flor]] de algo: Adquirir un hábito.
+*[[decir flores]]: Echar flores.
+*[[de flor en flor]]: Mudando continuamente en los propósitos o ocupaciones.
+*[[de mi flor]]: Muy bueno, estupendo.
+*[[descornar la flor]]: Sorprender la trampa, la fullería.
+*[[echar flores]]: lisonjear; irónicamente, maldecir
+*[[en flor]]: en ciernes; en todo su esplendor
+*[[en flores]]
+*[[entenderle la flor]]: Verle las intenciones
+*[[estar flor]]: Estar muy [[bien]], [[estupendo]] (Chile)
+*[[ir de flor en flor]]: Ser inestable sentimentalmente y cambiar de pareja con frecuencia.
+*[[ni flores]]: Nada.
+*[[pasárselo en flores]]:: Llevar una vida cómoda, fácil.
+*[[si son flores o no son flores]]
+*[[tener por flor]]: Tener un hábito, mal hábito o defecto.
+*[[tener una flor en el culo]]: tener mucha suerte
+*[[velo de flor]]
+{{rel-abajo}}
+
+=== Información adicional ===
+{{derivad|flor|florido|florero|florería|floristería|florista|aflorar|desflorar|flora|floral|florar|florear|florecer|floración|florón|floripondio|florecica|florecilla|florecita}}.
+
+=== Véase también ===
+{{wikiquote}}
+{{wikipedia}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ay|?|thuthumpi}}
+{{t+|sq|?|lule|f}}
+{{t+|de|1|Blume|f}}
+{{t+|ar|?|زهر}} (zahr ''col.''), {{trad|ar|زهرة}} ''f.'' (zahra)
+{{t+|be|1,2|кветка|f|tr=kvetka}}
+{{t+|my|?|ပန်း|tr=pan:}}
+{{t+|br|1|bleuñv|,|1|fleur}}
+{{t+|bg|?|цвете}}
+{{t+|km|?|ផ្កា|tr=phkaa}}
+{{t+|ca|1-2|flor|f}}
+{{t+|hr|1,2|cvijet|m}}
+{{t+|cs|?|květ}}
+{{t+|ctu|?|ñichtye'}}
+{{t+|cv|1,2|чечек|tr=chechek}}
+{{t+|ko|꽃}}
+{{t+|kw|1|bleujenn}}
+{{t+|da|?|blomst}}
+{{t+|sl|?|roža|f}}
+{{t+|eo|1|floro}}
+{{t+|et|?|õis}}
+{{t+|eu|?|lore}}
+{{t+|fr|1|fleur}}
+{{t+|gd|1|blàth}}
+{{t+|cy|1|blodyn}}
+{{t+|gl|1-2|flor|f}}
+{{t+|gwj|1|ǁaː}}
+{{t+|hu|1|virág|}}
+{{t+|io|1|floro}}
+{{t+|id|?|bunga}}
+{{t+|en|1,2|flower|,|1|bloom|,|1|blossom}}
+{{t+|ga|1|bláth}}
+{{t+|it|1|fiore|m}}
+{{t+|ja|1|花}} ({{trad|ja|はな}}, [[hana]])
+{{t+|kuz|1|putchur|,|1|tticka}}
+{{trad-centro}}
+{{t+|la|1|flos|m}}
+{{t+|lt|?|žiedas}}
+{{t+|zh|?|花|tr|huā|,|花兒|花儿|tr|huār|,|花朵|tr|huāduǒ|,|花卉|tr|huāhuì}}
+{{t+|mnk|1|firoo}}
+{{t+|mn|?|цэцэг}}
+{{t+|zh-min-nan|?|hoe}}
+{{t+|mk|?|цвет}}
+{{t+|ms|?|bunga}}
+{{t+|gv|1|blaa}}
+{{t+|arn|1-2|rayen|,|1-2|peskiñ}}
+{{t+|yua|?|lol|,|nikte'}}
+{{t+|nhn|1|xochitl|,|5|Xochitl}}
+{{t+|nci|1|xochitl}}
+{{t+|no|1|blomst|m}}
+{{t+|nn|1|blom|,|1|blome|m}}
+{{t+|pau|?|bung}}
+{{t+|fa|?|گل}}
+{{t+|pl|kwiat|m}}
+{{t+|pt|1-2|flor|f}}
+{{t+|quz|?|wayta}}
+{{t+|rap|1-2|tiare}}
+{{t+|ro|1|floare}}
+{{t+|ru|1,2|цветок|m|tr=tsvetok}}
+{{t+|so|1|ubax|m}}
+{{t+|sr|1,2|цвет|m|tr=cvet}}
+{{t+|sv|1|blomma|c}}
+{{t+|su|?|kembang}}
+{{t+|tl|?|bulaklak}} (-klák)
+{{t+|bo|?|མེ་ཏོག|tr=me tog}}
+{{t+|to|1-2|siale}}
+{{t+|tr|?|çiçek}}
+{{t+|uk|?|квітка}}
+{{t+|xh|1|intyatyatambo|nota|{{l|xh|iintyatyambo}} ''pl''}}
+{{t+|yag|1-2|fláwers}}
+{{trad-abajo}}
+
+== {{lengua|ca}} ==
+{{pron-graf|leng=ca|fono=flɔ}}
+
+=== Etimología ===
+{{etimología|la|flos|leng=ca}}
+
+=== {{sustantivo femenino|ca}} ===
+{{inflect.sust.sg-pl|flor|flors|leng=ca|link=s}}
+
+;1: {{plm}}{{-sub|1-2}}.
+
+;2: {{plm|grano}}, [[pústula]].
+:*'''Ejemplos:'''
+::"El noi ja tenia tot el cos ple de ''flors'' vermelles i la seva temperatura fregava els quaranta." → "El muchacho ya tenía todo el cuerpo lleno de ''granos'' y su temperatura rozaba los cuarenta. De Pedrolo, Manuel (1974) ''Mecanoscrit del segon origen''. Barcelona: 62, p. 49
+
+=== Véase también ===
+{{w|leng=ca}}
+
+== {{lengua|gl}} ==
+{{pron-graf|leng=gl}}
+
+=== Etimología ===
+{{etimología|la|flos|leng=gl}}
+
+=== {{sustantivo femenino|gl}} ===
+{{inflect.sust.sg-pl|flor|flores|leng=gl|link=s}}
+
+;1: {{plm}}{{-sub|1-2}}.
+
+=== Véase también ===
+{{w|leng=gl}}
+
+== {{lengua|no}} ==
+{{pron-graf|leng=no}}
+
+=== Etimología ===
+{{etimología|leng=no}}
+
+=== {{sustantivo masculino|no}} ===
+<!--
+{| border=1
+|+'''flor''' (masculino)
+! !! '''Forma <br> indefinida'''!!'''Forma <br> definida'''
+|-----------------
+|'''Singular''':||flor ||floren
+|-----------------
+|'''Plural''' <br> (Bokmål)||florer ||florene
+|-----------------
+|'''Plural''' <br> (Nynorsk)||florar ||florane
+|}
+-->
+
+;1: {{plm|establo}}.
+{{sinónimos|leng=no|fjøs}}.
+
+;2: {{plm|suelo}}.
+
+;3: {{plm|tolva}} para estiércol.
+
+;4: {{plm|floración}}.
+
+;5: {{plm|felpa}}.
+
+;6: {{plm|crespón}} de [[luto]].
+{{sinónimos|leng=no|sørgeflor}}.
+
+=== Véase también ===
+{{w|leng=no}}
+
+== {{lengua|pt}} ==
+{{pron-graf|leng=pt|fono=floɾ|fono2=floh|fono3=flox}}
+
+=== Etimología ===
+{{etimología|la|flos|leng=pt}}
+
+=== {{sustantivo femenino|pt}} ===
+{{inflect.pt.sust.sg-pl|flor|flores|}}
+
+;1: {{plm}}{{-sub|1-2}}.
+
+=== Véase también ===
+{{w|leng=pt}}
+
+== {{lengua|tr}} ==
+{{pron-graf|leng=tr}}
+
+=== Etimología ===
+{{etimología|leng=tr}}.
+
+=== {{sustantivo|tr}} ===
+;1 {{elementos químicos|leng=tr}}: {{plm|flúor}}.
+
+=== Véase también ===
+{{W|idioma=tr}}.
+
+== {{lengua|vo}} ==
+{{pron-graf|leng=vo}}
+
+=== Etimología ===
+{{etimología|la|flos|leng=vo}}
+
+=== {{sustantivo|vo}} ===
+;1: {{plm}}{{-sub|1-2}}.
+
+=== Información adicional ===
+{{derivad|leng=vo|flor|florabrasid|flored|florön|florüp}}.
+
+== Referencias y notas ==
+<references />

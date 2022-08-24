@@ -1,0 +1,61 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=tiˈxe.ɾas}}
+
+=== Etimología ===
+{{etimología|osp|tisera}}, a su vez del latín vulgar {{l+|la|ferramenta}} {{l+|la|tonsorius|tonsoria}}, "[[herramienta]] de [[trasquilar]]". Compárese el asturiano {{l+|ast|tisories}} y el portugués {{l+|pt|tesoura}}
+
+=== {{sustantivo femenino|es}} ===
+[[Archivo:Scissors.jpg|thumb|[1]]]
+{{inflect.es.sust.plur.tantum}}
+
+;1: {{plm|herramienta}} para [[cortar]], formada por dos [[hoja]]s [[cruzada]]s y unidas por un [[perno]] que las articula, moviéndose los extremos sin filo para cerrar el lado opuesto y cortar el material que allí se coloque.
+{{variantes|tijera}}.
+;2: Por extensión, cualquier utensilio o estructura dispuesta con una articulación semejante, como las [[pata]]s de una [[silla]] plegable.
+{{variantes|tijera}}.
+;3: Cada uno de las [[correa]]s o [[tensor]]es sobre los que se suspendía la [[caja]] de un coche de caballos, cruzados según este principio.
+
+;4 {{arquitectura}}: [[pieza|Piezas]] [[vertical]]es que sostienen la [[cubierta]] de un [[edificio]].
+
+=== Véase también ===
+{{W}}
+* [[alicate]]
+* [[cizalla]]
+* [[esquiladora]]
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|1|Schere}}
+{{t+|ast|tisories|f|p}}
+{{t+|ca|1|tisores|f|p}}
+{{t+|cs|1|nůžky}}
+{{t+|zh|1|剪刀}}
+{{t+|ko|1|가위}}
+{{t+|da|1|saks}}
+{{t+|sl|1|škarje|f|p}}
+{{t+|eo|1|tondilo}}
+{{t+|eu|1|guraize}}
+{{t+|fi|1|sakset}}
+{{t+|fr|1|ciseaux}}
+{{t+|cy|1|siswrn}}
+{{t+|gl|1|tesoiras}}
+{{t+|el|1|ψαλίδι}} (psalídi)
+{{trad-centro}}
+{{t+|he|1|מספריים|m|p}}
+{{t+|hu|1|olló}}
+{{t+|id|1|gunting}}
+{{t+|en|1|scissors|p}}
+{{t+|it|1|forbici|m|p}}
+{{t+|ja|1|はさみ}} ("hasami")
+{{t+|nl|1|schaar}}
+{{t+|no|1|saks}}
+{{t+|pl|1|nożyczki}}
+{{t+|pt|1|tesoura|f}}
+{{t+|ru|1|ножницы}}
+{{t+|sv|1|sax}}
+{{t+|th|1|กรรไกร}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

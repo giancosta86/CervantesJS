@@ -1,0 +1,23 @@
+{{desambiguación|Flores|florés|florees|floreés}}
+
+== {{lengua|es}} ==
+{{pron-graf
+|división=flo - res
+|fone=ˈflo.ɾes
+|acentuación=grave
+|longitud_silábica=2
+|número_letras=6
+|homófono=Flores}}
+
+=== Forma sustantiva femenina ===
+;1: {{forma sustantivo plural|flor}}.
+
+=== Forma verbal ===
+;2: {{forma verbo|florar|2s|pres|subj}}.
+{{uso}} se emplea también para el imperativo negativo.
+
+=== Información adicional ===
+{{rima|o.ɾes}}.
+
+== Referencias y notas ==
+<references />

@@ -1,0 +1,41 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈtu.ʝ̞a̠}}
+::''(Rioplatense'': {{AFI|[ ˈtu.ʒa̠ ] o [ ˈtu.ʃa̠ ]}} '')''
+
+=== Etimología ===
+{{etimología}}
+
+=== {{sustantivo femenino|es}} ===
+{{inflect.es.sust.reg}}
+
+;1 {{árboles}}: {{plm|árbol}} de la familia de los cipreses (''Cupressaceae'') en ser de figura piramidal y tener las hojas siempre verdes.<ref name="novísimo">{{Labernia1866}} Pág. 928</ref>
+
+=== {{pronombre|es|posesivo}} ===
+{{inflect.es.adj.reg|tuy}}
+
+;2: {{impropia|Forma femenina del pronombre posesivo [[tuyo]]}}
+
+=== Véase también ===
+{{w}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+<!--{{t+|de|}}-->
+<!--{{t+|ar|}}-->
+<!--{{t+|bg|}}-->
+<!--{{t+|ca|}}-->
+<!--{{t+|eo|}}-->
+<!--{{t+|fr|}}-->
+{{trad-centro}}
+<!--{{t+|en|}}-->
+<!--{{t+|it|}}-->
+<!--{{t+|ja|}}-->
+<!--{{t+|nl|}}-->
+<!--{{t+|pl|}}-->
+<!--{{t+|pt|}}-->
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

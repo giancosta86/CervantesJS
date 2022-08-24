@@ -1,0 +1,105 @@
+{{desambiguación|Caro|Çaro|}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈka.ɾo}}
+
+=== Etimología ===
+{{etimología|la|carus|querido}}, del protoindoeuropeo {{l+|ine|*kāro-}}
+
+=== {{adjetivo|es}} ===
+{{inflect.es.adj.reg|car|sup=carísimo}}
+
+;1: Que tiene un [[alto]] [[valor]] o [[costo]].
+{{sinónimo|costoso}}
+{{antónimo|barato|económico}}
+
+;2: Que es objeto de [[gran]] [[estima]].
+{{uso|anticuado|o|literario}}
+{{sinónimo|querido|estimado}}
+:*'''Ejemplo:'''
+::"Pareceme que te plaze saber, muy ''caro'' amigo, quál es el fundamento de aquestos comencadores de nueva seta que rotamente los piase en general de todas las mugeres maldesir". de Valera, Diego. ''Tratado en defenssa dé virtuossas mugeres'' {{referencia incompleta}}
+
+;3: Que ocasiona grandes [[dificultad]]es.
+{{uso|anticuado|o|literario}}.
+
+=== {{adverbio|es}} ===
+
+;4: A un alto valor o costo.
+
+=== Información adicional ===
+:*'''Pares mínimos:''' [[cara]], [[aro]], [[faro]], [[paro]], [[raro]], [[cabo]], [[caco]], [[cano]], [[carro]], [[caso]]
+
+=== Véase también ===
+{{w}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|1|teuer}}
+{{t+|br|1|ker}}
+{{t+|ca|1|car}}
+{{t+|eo|1|kara}}
+{{t+|fr|1|coûteux|,|cher}}
+{{trad-centro}}
+{{t+|en|1|expensive}}
+{{t+|it|1|caro}}
+{{t+|yua|1|ko´oh}}
+{{t+|pl|1|drogi}}
+{{t+|pt|1|caro}}
+{{trad-abajo}}
+
+== {{lengua|it}} ==
+{{pron-graf|leng=it|fono=ˈka.ro}}
+
+=== Etimología ===
+{{etimología|leng=it|la|carus}}, del protoindoeuropeo {{l+|ine|*kāro-}}.
+
+=== {{adjetivo|it}} ===
+{{inflect.it.adj.reg|car}}
+
+;1: {{plm|querido}}, [[estimado]].
+
+;2: {{plm}}, [[precioso]].
+
+== {{lengua|la}} ==
+{{pron-graf|leng=la|alt=carō|pron=clásico|fone=ˈka.roː|v=carnis}}
+
+=== Etimología ===
+{{etimología|leng=la|itc|*kerō|alt=*kerō(n)}}, y este del protoindoeuropeo {{l+|ine|ine=x|k(e)rH-n-|tr="[[trozo]]"}} (< {{l+|ine|*(s)kerH-}}, "[[separar]]", "[[dividir]]").<ref name=vaan>{{DeVaan|94}}</ref> Compárese el irlandés antiguo {{l+|sga|scara|tr="[[separar]]"}} y el lituano {{l+|lt|skìrti}}.<ref name=vaan/><br />→ {{l+|la|corium}}, {{l+|la|curtus}}
+
+=== {{sustantivo femenino|la}} ===
+{{inflect.la.sust.3mf|carn|carō|4=i|nb=irregular}}
+
+;1: {{plm|carne}}.
+
+{{clear}}
+
+=== Información adicional ===
+{{derivados|des=x}}
+{{desc|ast|carne}}
+{{desc|ca|carn}}
+{{desc|es|carne}}
+{{desc|fr|chair}}
+{{centro}}
+{{desc|it|carne}}
+{{desc|pt|carne}}
+{{desc|rm|charn}}
+{{desc|ro|carne}}
+{{abajo}}
+
+== {{lengua|pt}} ==
+{{pron-graf|leng=pt|fono=ˈka.ʁu}}
+
+=== Etimología ===
+{{etimología|leng=pt|la|carus}}, del protoindoeuropeo {{l+|ine|*kāro-}}
+
+=== {{adjetivo|pt}} ===
+{{inflect.pt.adj.reg|car}}
+
+;1: {{plm|querido}}, [[estimado]].
+
+;2: {{plm}}, [[precioso]].
+
+== Referencias y notas ==
+<references />

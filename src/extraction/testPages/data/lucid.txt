@@ -1,0 +1,17 @@
+== {{lengua|es}} ==
+{{pron-graf}}
+
+=== Forma verbal ===
+;1: {{forma verbo|lucir|p=2p|t=imperativo|afirmativo=sí}}.
+
+== {{lengua|en}} ==
+{{pron-graf|leng=en}}
+
+=== Etimología ===
+{{etimología|leng=en}}
+
+=== {{adjetivo|en}} ===
+;1: {{plm|lúcido}}
+
+== Referencias y notas ==
+<references />

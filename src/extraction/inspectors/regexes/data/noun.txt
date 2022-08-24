@@ -1,0 +1,21 @@
+ (?:
+    (?:\{\{)
+    |
+    (?:==)
+)\s*
+
+(?:
+    (?:
+        sustantivo\s+(?<gender_1>m|f).+?\n
+        (?:
+            [^{]*?
+            \{\{
+                \s*inflect.es.sust.\s*(?<number_trait>s|p|i)
+        )?
+    )
+    |
+    (?:
+        =+\s*Forma\s+sustantiva\s+(?<gender_2>m|f).+?
+        \{\{\s*forma\s+sustantivo\s+plural\s*\|\s*(?<singular_form>\p{L}[\p{L}.\- ]*\p{L})\s*
+    )
+)

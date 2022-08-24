@@ -1,0 +1,29 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈawŋ.ke|g=ahunque|gnota=obsoleta}}
+
+=== Etimología ===
+{{etimología|compuesto|aun|que}}.
+
+=== {{conjunción|es}} ===
+
+;1: {{plm|sin embargo}}, [[no obstante]], [[si bien]]. Denota oposición entre dos proposiciones.
+
+=== Locuciones ===
+*[[aunque sea]]: manera de denotar un objeto o circunstancia mínimos que pueden satisfacer una necesidad o deseo.
+{{antónimo|ni siquiera}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|de|1|obwohl}}
+{{t+|fr|1|bien que|1|quoique|1|même si}}
+{{t+|en|1|although|1|even though}}
+{{trad-centro}}
+{{t+|lt|1|nors}}
+{{t+|yua|1|kex}}
+{{t+|nl|1|ondanks}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

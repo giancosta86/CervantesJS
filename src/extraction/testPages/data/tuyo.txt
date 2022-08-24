@@ -1,0 +1,38 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=ˈtu.ʝ̞o̞|2pron=Rioplatense|alt2pron=Rioplatense|2fone=ˈtu.ʃo̞}}
+
+=== Etimología ===
+{{etimología|la|tuus}}.<ref name="dlc1884">{{DLC1884|página=1059|fechaacceso=2 de diciembre del 2016}}</ref>
+
+=== {{pronombre posesivo|es}} ===
+{{inflect.es.adj.reg|tuy}}
+
+;1: ''Pronombre posesivo de la segunda persona, que significa lo que le pertenece o le es propio.''<ref name="dlc1842">{{DLC1842}} pág. 872</ref>
+
+=== {{sustantivo masculino|es}} ===
+;2: '''Tuyos''' (En plural) Los que son del partido, o son allegados o parientes de la persona con quien se habla.<ref name="dlc1842" />
+
+=== Véase también ===
+{{w|Determinante_(lingüística)|tuyo}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+<!--{{t+|de|}}-->
+<!--{{t+|ar|}}-->
+<!--{{t+|bg|}}-->
+<!--{{t+|ca|}}-->
+<!--{{t+|eo|}}-->
+<!--{{t+|fr|}}-->
+{{trad-centro}}
+<!--{{t+|en|}}-->
+<!--{{t+|it|}}-->
+<!--{{t+|ja|}}-->
+<!--{{t+|nl|}}-->
+<!--{{t+|pl|}}-->
+<!--{{t+|pt|}}-->
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />

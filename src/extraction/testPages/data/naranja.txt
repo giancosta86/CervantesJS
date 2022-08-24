@@ -1,0 +1,118 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=naˈɾaŋ.xa}}
+
+=== Etimología ===
+{{etimología|xaa|naranǧa}}, este del árabe {{l+|ar|نارنج|transcripción=nāranj}}, a su vez del persa {{l+|fa|نارنگ|tr=nārang}}, y este del sánscrito {{l+|sa|नारङ्ग|tr=nāraṅga}}, de origen dravídico
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.sing.tantum}}
+
+[[Archivo:Solid orange.svg|thumb|[1]]]
+;1 {{colores}}: Color entre [[rojo]] y [[amarillo]]; algo más oscuro que la yema de un huevo.
+{{uso|utcs}}.
+{{relacionado|anaranjado}}.
+
+=== {{sustantivo femenino|es}} ===
+[[Archivo:Ambersweet oranges.jpg|thumb|right|125px|(2)]]
+{{inflect.es.sust.reg}}
+;2 {{frutas}}: (''[[species:Citrus sinensis|Citrus x sinensis]]'') [[fruto|Fruto]] [[cítrico]] del [[naranjo]]. Es un [[hesperidio]] de color naranja y forma [[esférico|esférica]], formado por seis a doce [[gajo]]s o [[carpelo]]s, divididos por una fina membrana y conteniendo una pulpa de color naranja, ácida a dulce, muy jugosa. La piel es rica en elementos aromáticos.
+
+;3 {{milicia}}: {{plm|bala}} de [[cañón]] que se usaba antiguamente y cuyo tamaño era similar al de esta fruta.
+
+=== {{adjetivo|es}} ===
+{{inflect.es.adj.no-género}}
+
+;4: De color naranja{{-sub|1}}.
+{{ejemplo|Tengo unos calcetines ''naranja''}}
+
+=== {{pronombre|es}} ===
+;5: Nada, ninguna cosa.
+{{ámbito|Rioplatense}}.
+{{uso|Lunfardismo|más usado en la expresión {{l+|es|no pasar naranja}}}}.
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba|Locuciones con «naranja»}}
+*[[naranja agria]]: (''Citrus x aurantium'') Especie de cítrico estrechamente relacionado con la naranja dulce, utilizado en mermeladas y otras preparaciones
+*[[naranja cajel]]: Variedad de naranja agridulce, producida por injerto.
+*[[naranja china]]: Variedad de naranja pequeña de piel muy lisa, amarilla y dulce; y pulpa ácida.
+*[[naranja clementina]]: (''Citrus reticulata'') Variedad, sin pepas y de piel más delgada, de la naranja mandarina.
+*[[naranja de sangre]]: [[sanguina]], naranja con la pulpa de color rojo.
+*[[naranja dulce]]: Variedad de naranja dulce y rojiza.
+*[[naranja espinosa]]: (''Poncirus trifoliata'') Especie de rutácea emparentada con los cítricos, más resistente al frío, y demasiado amarga para ser consumida como fruta
+*[[naranja mandarina]]: (''Citrus reticulata'') Especie estrechamente emparentada con la naranja, que da una fruta pequeña, dulce, de piel delgada.
+{{rel-centro}}
+*[[naranja tangerina]]: (''Citrus reticulata'') Especie estrechamente emparentada con la naranja, que da una fruta pequeña, dulce, de piel delgada.
+*[[naranja zajarí]]: Variedad de naranja agridulce, producida por injerto.
+*{{l|es|no pasar naranja}}
+*[[piel de naranja]]: Piel con un aspecto rugoso, como la cáscara de la naranja, debido a problemas de sobrepeso y celulitis.
+*[[media naranja]]: cónyuge u otra persona con quien se mantiene una relación de perfecta armonía; en Arquitectura, bóveda semiesférica sobre todo un edificio o una buena parte de él
+*¡[[naranjas]]!, ¡[[naranjas chinas]]!, ¡[[naranjas de la China]]!: interjección empleada para negarse en redondo
+{{rel-abajo}}
+
+=== Véase también ===
+{{Wikipedia}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|ay|1|arumita}}
+{{t+|sq|2|portokalli}}
+{{t+|de|1,2|Orange|f}}
+{{t+|ast|naranxa}}
+{{t+|az|portaqal}}
+{{t+|be|1|оранжево|tr=oranževo|,|2|апельсін}}
+{{t+|br|1|orañjez|,|2|orañjezenn|f}}
+{{t+|bg|оранжев|,|2|портокал}}
+{{t+|ca|1,2|taronja}}
+{{t+|cs|1|oranžová|,|2|pomeranč}}
+{{t+|da|1|orange|,|2|appelsin|c}}
+{{t+|sk|1|oranžová|,|2|pomaranč}}
+{{t+|sl|2|pomaranča|f}}
+{{t+|eo|1|oranĝa}}
+{{t+|eo|1|oranĝkolora|,|2|oranĝo}}
+{{t+|eu|1,2|laranja}}
+{{t+|fi|1|oranssi|,|2|appelsiini}}
+{{t+|fr|1,2|orange}}
+{{t+|cy|1|oren}}
+{{t+|gu|2|કેસરી}}
+{{t+|he|כתום|,|תפוז}}
+{{t+|hu|2|narancs}}
+{{t+|io|2|oranjea|,|2|oranjo}}
+{{t+|id|1|oranye}}
+{{t+|en|1,2|orange}}
+{{t+|it|1|arancione|m|,|2,4|arancia}}
+{{t+|id|2|jeruk}}
+{{trad-centro}}
+{{t+|ja|1|オレンジ色}}, [2] {{l|ja|オレンジ|tr=orenji}}
+{{t+|lt|2|apelsinas}}
+{{t+|zh|1|橙色|,|2|橙}}
+{{t+|yua|china}}
+{{t+|mn|2|жүрж}}
+{{t+|nhn|1|chilcoztic|,|2|lalaxtli}}
+{{t+|nci|1|chilcoztic|,|2|naranjaxocotl}}
+{{t+|nch|lalax}}
+{{t+|nhw|1|lalaxtik|,|2|lalax}}
+{{t+|nhe|2|alaxox}}
+{{t+|nhv|2|lalaxtli}}
+{{t+|nl|1|oranje|,|2|sinaasappel}}
+{{t+|no|1|oransje}}
+{{t+|pl|2|pomarańcza|f}}
+{{t+|pt|1,2|laranja}}
+{{t+|quc|2|alanxäx|,|2|rna'j}}
+{{t+|ru|1|оранжевый}}, [2] {{l|ru|апельсин|tr=apělʹsin}}
+{{t+|sv|1|orange|,|2|apelsin|c}}
+{{t+|th|1|ออเรนจ์}}
+{{t+|th|2|ส้ม}}
+{{t+|tr|1|turuncu}}
+{{t+|vi|1|màu|,|1|cam}}
+{{t+|ti|1||ኣራንቺ|tr|ʾaranči|,|2|ኣራንሺ|tr|ʾaranši}}
+{{t+|tr|2|portakal}}
+{{t+|zad|2|brax}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />
+{{Lunfa2000}}
