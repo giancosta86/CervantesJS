@@ -1,20 +1,19 @@
+import { testTermExtractor } from "@giancosta86/jardinero-sdk";
+import { WikiPage } from "@giancosta86/wiki-transform";
+import { expectedTermCatalog, wikiPageCatalog } from "../test/pages";
 import { extractTerms } from "./core";
-import { expectedTermsByPageTitle, loadTestPage } from "./testPages";
-import { toJsonSet } from "./_shared.test";
+import { SpanishTerm } from "../terms";
+
+testTermExtractor<WikiPage, SpanishTerm>({
+  wikiPageCatalog,
+  wikiPageMapper: wikiPage => wikiPage,
+  termExtractor: extractTerms,
+  expectedTermCatalog
+});
 
 describe("Term extraction", () => {
-  it.each([...expectedTermsByPageTitle.entries()])(
-    "should extract terms from page '%s'",
-    async (title, expectedTerms) => {
-      const page = await loadTestPage(title);
-      const actualTerms = extractTerms(page);
-
-      expect(toJsonSet(actualTerms)).toEqual(toJsonSet(expectedTerms));
-    }
-  );
-
   it("should ignore metadata pages having ':' in the title", async () => {
-    const originalPage = await loadTestPage("vino");
+    const originalPage = await wikiPageCatalog.loadPage("vino");
     const actualPage = { ...originalPage, title: "Test: Metadata page" };
 
     const actualTerms = extractTerms(actualPage);

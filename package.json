@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/cervantes",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Extract and classify Spanish terms from wiki pages, with TypeScript",
   "keywords": [
     "extract",
@@ -41,12 +41,12 @@
     "compile-ts": "tsc",
     "copy-static": "yarn copy-regexes && yarn copy-test-pages",
     "copy-regexes": "copyfiles -a -u 1 \"src/extraction/inspectors/regexes/data/**/*\" dist",
-    "copy-test-pages": "copyfiles -a -u 1 \"src/extraction/testPages/**/*\" dist",
+    "copy-test-pages": "copyfiles -a -u 1 \"src/test/pages/**/*\" dist",
     "watch": "yarn compile-ts --watch",
     "test:prod": "jest dist --testPathIgnorePatterns=/_.+"
   },
   "dependencies": {
-    "@giancosta86/jardinero-sdk": "^1.0.0",
+    "@giancosta86/jardinero-sdk": "^2.0.0",
     "node-fetch": "^2",
     "unbzip2-stream": "^1.4.3"
   },
@@ -64,6 +64,7 @@
     "cross-env": "^7.0.3",
     "eslint": "^8.21.0",
     "jest": "^28.1.2",
+    "jest-extended": "^3.1.0",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
     "ts-node": "^10.9.0",

@@ -15,98 +15,62 @@ import {
 export function createSpanishWritableBuilder(): SqliteWritableBuilder {
   return new SqliteWritableBuilder()
     .withMaxObjectsInTransaction(45000)
-    .withType<Preposition>(
+    .withSafeType<Preposition>(
       "preposition",
-      `
-        INSERT OR IGNORE INTO prepositions
-        (entry, pronunciation)
-        VALUES
-        (?, ?)
-      `,
+      "prepositions",
+      ["entry", "pronunciation"],
       preposition => [preposition.entry, preposition.pronunciation]
     )
-    .withType<Interjection>(
+    .withSafeType<Interjection>(
       "interjection",
-      `
-      INSERT OR IGNORE INTO interjections
-      (entry, pronunciation)
-      VALUES
-      (?, ?)
-      `,
+      "interjections",
+      ["entry", "pronunciation"],
       interjection => [interjection.entry, interjection.pronunciation]
     )
-    .withType<Conjunction>(
+    .withSafeType<Conjunction>(
       "conjunction",
-      `
-      INSERT OR IGNORE INTO conjunctions
-      (entry, pronunciation)
-      VALUES
-      (?, ?)
-      `,
+      "conjunctions",
+      ["entry", "pronunciation"],
       conjunction => [conjunction.entry, conjunction.pronunciation]
     )
-    .withType<Adverb>(
+    .withSafeType<Adverb>(
       "adverb",
-      `
-      INSERT OR IGNORE INTO adverbs
-      (entry, pronunciation, kind)
-      VALUES
-      (?, ?, ?)
-      `,
+      "adverbs",
+      ["entry", "pronunciation", "kind"],
       adverb => [adverb.entry, adverb.pronunciation, adverb.kind]
     )
-    .withType<Verb>(
+    .withSafeType<Verb>(
       "verb",
-      `
-      INSERT OR IGNORE INTO verbs
-      (entry, pronunciation, kind)
-      VALUES
-      (?, ?, ?)
-      `,
+      "verbs",
+      ["entry", "pronunciation", "kind"],
       verb => [verb.entry, verb.pronunciation, verb.kind]
     )
-    .withType<Pronoun>(
+    .withSafeType<Pronoun>(
       "pronoun",
-      `
-      INSERT OR IGNORE INTO pronouns
-      (entry, pronunciation, kind)
-      VALUES
-      (?, ?, ?)
-      `,
+      "pronouns",
+      ["entry", "pronunciation", "kind"],
       pronoun => [pronoun.entry, pronoun.pronunciation, pronoun.kind]
     )
-    .withType<Article>(
+    .withSafeType<Article>(
       "article",
-      `
-      INSERT OR IGNORE INTO articles
-        (entry, pronunciation, kind)
-        VALUES
-        (?, ?, ?)
-      `,
+      "articles",
+      ["entry", "pronunciation", "kind"],
       article => [article.entry, article.pronunciation, article.kind]
     )
-    .withType<Adjective>(
+    .withSafeType<Adjective>(
       "adjective",
-      `
-      INSERT OR IGNORE INTO adjectives
-      (entry, pronunciation, reference_entry)
-      VALUES
-      (?, ?, ?)
-      `,
+      "adjectives",
+      ["entry", "pronunciation", "reference_entry"],
       adjective => [
         adjective.entry,
         adjective.pronunciation,
         adjective.referenceEntry
       ]
     )
-    .withType<Noun>(
+    .withSafeType<Noun>(
       "noun",
-      `
-      INSERT OR IGNORE INTO nouns
-      (entry, pronunciation, gender, number_trait, reference_entry)
-      VALUES
-      (?, ?, ?, ?, ?)
-      `,
+      "nouns",
+      ["entry", "pronunciation", "gender", "number_trait", "reference_entry"],
       noun => [
         noun.entry,
         noun.pronunciation,
@@ -115,19 +79,15 @@ export function createSpanishWritableBuilder(): SqliteWritableBuilder {
         noun.referenceEntry
       ]
     )
-    .withType<VerbForm>(
+    .withSafeType<VerbForm>(
       "verb_form",
-      `
-      INSERT OR IGNORE INTO verb_forms
-      (entry, pronunciation, infinitive, mode, tense, person)
-      VALUES
-      (?, ?, ?, ?, ?, ?)
-      `,
+      "verb_forms",
+      ["entry", "pronunciation", "infinitive", "mood", "tense", "person"],
       verbForm => [
         verbForm.entry,
         verbForm.pronunciation,
         verbForm.infinitive,
-        verbForm.mode,
+        verbForm.mood,
         verbForm.tense,
         verbForm.person
       ]

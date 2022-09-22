@@ -1,3 +1,5 @@
+const PRIMARY_STRESS = "\u02c8";
+
 export type PartialTerm = Readonly<{
   entry: string;
   pronunciation?: string;
@@ -13,6 +15,6 @@ export function extractPartialTerm(
 
   return {
     entry,
-    pronunciation: pronunciationMatch?.[1]?.replaceAll("\u02c8", "'")
+    pronunciation: pronunciationMatch?.[1]?.replaceAll(PRIMARY_STRESS, "'")
   };
 }

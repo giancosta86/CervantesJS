@@ -1,2 +1,2 @@
 *.test.*
-testPages/
+/dist/test/

@@ -81,7 +81,7 @@ export type VerbForm = Readonly<
   SpanishTermBase & {
     type: "verb_form";
     infinitive: string;
-    mode: string;
+    mood: string;
     tense?: string;
     person?: string;
   }

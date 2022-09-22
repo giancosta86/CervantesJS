@@ -1,23 +1,14 @@
 import { Readable } from "node:stream";
-import { pipeline } from "node:stream/promises";
-import { FlattenTransform } from "@giancosta86/flatten-transform";
+import { WikiPage } from "@giancosta86/wiki-transform";
+import { testTermExtractionTransformsOnMergedPages } from "@giancosta86/jardinero-sdk";
 import { SpanishTerm } from "../terms";
 import { SpanishTransform } from "./SpanishTransform";
-import { toJsonSet } from "./_shared.test";
-import { getAllPagesAndTerms } from "./testPages";
+import { expectedTermCatalog, wikiPageCatalog } from "../test/pages";
 
-describe("The Spanish extraction transform", () => {
-  it("should extract the terms from all the test pages", async () => {
-    const [pages, expectedTerms] = await getAllPagesAndTerms();
-
-    const extractedTerms: SpanishTerm[] = [];
-
-    await pipeline(
-      Readable.from(pages),
-      new SpanishTransform(),
-      new FlattenTransform().on("data", term => extractedTerms.push(term))
-    );
-
-    expect(toJsonSet(extractedTerms)).toEqual(toJsonSet(expectedTerms));
-  });
+testTermExtractionTransformsOnMergedPages<WikiPage, SpanishTerm>({
+  wikiPageCatalog,
+  wikiPageMapper: wikiPage => wikiPage,
+  pagesToReadableMapper: pages => Readable.from(pages),
+  expectedTermCatalog,
+  createExtractionTransforms: () => new SpanishTransform()
 });

@@ -86,9 +86,9 @@ export function registerInspectors(): void {
 
   registerInspector("impersonalVerbForm", (partialTerm, potentialMatch) => {
     const infinitive = potentialMatch.groups?.["infinitive"];
-    const mode = potentialMatch.groups?.["mode"];
+    const mood = potentialMatch.groups?.["mood"];
 
-    if (!infinitive || !mode) {
+    if (!infinitive || !mood) {
       return null;
     }
 
@@ -97,25 +97,25 @@ export function registerInspectors(): void {
       entry: partialTerm.entry,
       pronunciation: partialTerm.pronunciation,
       infinitive,
-      mode
+      mood
     };
   });
 
   registerInspector("personalVerbForm", (partialTerm, potentialMatch) => {
     const infinitive = potentialMatch.groups?.["infinitive"];
-    const mode = potentialMatch.groups?.["mode"];
+    const mood = potentialMatch.groups?.["mood"];
     const tense = potentialMatch.groups?.["tense"];
 
     if (!infinitive || !tense) {
       return null;
     }
 
-    const [actualMode, actualTense] =
+    const [actualMood, actualTense] =
       tense?.startsWith("imperat") || tense?.startsWith("condi")
         ? [tense, undefined]
-        : [mode, tense];
+        : [mood, tense];
 
-    if (!actualMode) {
+    if (!actualMood) {
       return null;
     }
 
@@ -124,7 +124,7 @@ export function registerInspectors(): void {
       entry: partialTerm.entry,
       pronunciation: partialTerm.pronunciation,
       infinitive,
-      mode: actualMode,
+      mood: actualMood,
       tense: actualTense,
       person: potentialMatch.groups?.["person"]
     };

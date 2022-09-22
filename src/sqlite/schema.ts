@@ -72,9 +72,9 @@ CREATE TABLE verb_forms (
     entry TEXT NOT NULL,
     pronunciation TEXT,
     infinitive TEXT NOT NULL,
-    mode TEXT NOT NULL,
+    mood TEXT NOT NULL,
     tense TEXT,
     person TEXT,
-    PRIMARY KEY (entry, infinitive, mode, tense, person)
+    PRIMARY KEY (entry, infinitive, mood, tense, person)
 );
 `;

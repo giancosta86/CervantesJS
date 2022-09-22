@@ -14,6 +14,8 @@ _Extract and classify Spanish terms from wiki pages, with TypeScript_
 
 To install the package as a plugin, please refer to the documentation of [JardineroJS](https://github.com/giancosta86/JardineroJS).
 
+> The current version of the plugin requires Jardinero 2.x
+
 Otherwise, to install it as a library reference within a project:
 
 ```bash
@@ -46,7 +48,7 @@ In particular, you may want to consider:
 
 - `extractTerms()` - to _extract Spanish terms_ from a given wiki page
 
-- `SpanishTransform` - a _Transform stream_ applying `extractTerms()` to a flow of wiki pages
+- `SpanishTransform` - a _transform stream_ applying `extractTerms()` to a flow of wiki pages
 
 - `SPANISH_SQLITE_SCHEMA`: a string containing _the DDL code_ for SQLite
 
